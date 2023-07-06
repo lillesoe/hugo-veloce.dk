@@ -74,7 +74,7 @@ my name in different computer environments. This idea is in coutesy of **sauber*
 - **7-bit ASCII** `Jesper Lillesoe`
 - **PC Keyboard** `Jesper Lilles[Alt]0248`
 - **SUN Keyboard** `Jesper Lilles[Compose]o/`
-- **Typewriter** `Jesper Lilles[Backspace]/`
+- **Typewriter** `Jesper Lilleso[Backspace]/`
 
 ## Geek Code
 ```
@@ -85,17 +85,7 @@ y+>+++++
 ------END GEEK CODE BLOCK------
 ```
 
-<div className="flex flex-wrap -mx-2 overflow-hidden xl:-mx-2">
-  <div className="my-1 px-2 w-full overflow-hidden xl:my-1 xl:px-2 xl:w-1/2">
-    ![Me in 1976](/static/images/about/me1976.jpeg)
-  </div>
-  <div className="my-1 px-2 w-full overflow-hidden xl:my-1 xl:px-2 xl:w-1/2">
-    ![Me at a window](/static/images/about/meWindow.jpeg)
-  </div>
-  <div className="my-1 px-2 w-full overflow-hidden xl:my-1 xl:px-2 xl:w-1/2">
-    ![Portrait of a young Jesper](/static/images/about/portrait.jpeg)
-  </div>
-  <div className="my-1 px-2 w-full overflow-hidden xl:my-1 xl:px-2 xl:w-1/2">
-    ![Porter](/static/images/about/porter.jpeg)
-  </div>
-</div>
+![Me in 1976:left](me1976.jpg)
+![Me at a window:left](meWindow.jpg)
+![Portrait of a young Jesper:left](portrait.jpg)
+![Porter:left](porter.jpg)

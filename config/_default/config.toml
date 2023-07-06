@@ -2,7 +2,7 @@
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://veloce.dk/"  # Include trailing slash
 # title = "Veloce"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
-copyright = "Jesper Lillesø;"
+copyright = "Jesper Lillesø"
 # canonifyurls = true
 paginate = 10
 theme = ["github.com/chipzoller/hugo-clarity"]
