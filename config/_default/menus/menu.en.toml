@@ -4,23 +4,9 @@
   weight = -110
 
 [[main]]
-  name = "Archives"
-  url = "post/rich-content/"
+  name = "Photos"
+  url = "https://photo.veloce.dk/"
   weight = -109
-
-# Submenus are done this way: parent -> identifier
-[[main]]
-  name = "Links"
-  identifier = "Links"
-  weight = -108
-[[main]]
-  parent = "Links"
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/"
-[[main]]
-  parent = "Links"
-  name = "Twitter"
-  url = "https://twitter.com/"
 
 [[main]]
   name = "About"
@@ -39,12 +25,16 @@
   weight = 2
   url = "https://twitter.com/lillesoe"
 [[social]]
-  name = "linkedin"
+  name = "instagram"
   weight = 3
+  url = "https://www.instagram.com/lillesoe/"
+[[social]]
+  name = "linkedin"
+  weight = 4
   url = "https://www.linkedin.com/in/lillesoe/"
 [[social]]
   name = "rss"
-  weight = 4
+  weight = 5
   url = "index.xml"
 
 # other supported social links
