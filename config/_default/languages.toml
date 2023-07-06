@@ -1,0 +1,11 @@
+[en]
+  title = "Veloce"
+  LanguageName = "English"
+  weight = 1
+
+[da]
+  title = "Veloce" 
+  LanguageName = "Danish"
+  weight = 2
+
+  # tip: assign the default language the lowest Weight
