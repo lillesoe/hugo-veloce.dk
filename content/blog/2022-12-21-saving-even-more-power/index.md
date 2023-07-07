@@ -4,7 +4,7 @@ date: '2022-12-21'
 tags: ['power', 'green', 'linux', 'Raspberry Pi']
 draft: false
 summary: Hosing my blog and gallery from an old Raspberry Pi 3B
-images: []
+thumbnail: "energy-saving-svgrepo-com.svg"
 ---
 
 I decided having a blog that is not up all 24h a day, is not nice. So I have moved

@@ -4,7 +4,7 @@ date: '2023-07-06'
 tags: ['hello']
 draft: false
 summary: Today I started moving my blog to Hugo
-images: []
+thumbnail: "blog-svgrepo-com.svg"
 ---
 
 Today I started moving my blog to Hugo. Both new and old blog posts will be migrated here as time lets.

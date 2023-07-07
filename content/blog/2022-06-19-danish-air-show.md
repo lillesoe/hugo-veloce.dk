@@ -2,7 +2,7 @@
 title: Danish Air Show 2022
 date: '2022-06-19'
 tags: ['Air Show']
-draft: false
+draft: true
 summary: This year I attended the Danish Air Show for the first time. Around 130.000 other spectators did the same ...
 images: []
 ---

@@ -4,7 +4,7 @@ date: '2022-09-09'
 tags: ['hello']
 draft: false
 summary: Today I started moving my blog to NextJS
-images: []
+thumbnail: "blog-svgrepo-com.svg"
 ---
 
 Today I started moving my blog to NextJS. Both new and old blog posts will be migrated here as time lets.

@@ -4,7 +4,7 @@ date: '2022-10-04'
 tags: ['power', 'green', 'linux']
 draft: false
 summary: I wanted to save power due to the high energy prices. I have a NAS running 24/7.
-images: []
+thumbnail: "energy-saving-svgrepo-com.svg"
 ---
 
 I wanted to save power due to the high energy prices. I have a NAS running 24/7.

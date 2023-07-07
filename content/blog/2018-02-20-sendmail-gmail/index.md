@@ -4,7 +4,7 @@ date: '2018-02-20'
 tags: ['FreeBSD', 'sendmail', 'GMail']
 draft: false
 summary: Using ssmtp instead of sendmail
-images: []
+thumbnail: "email-download-svgrepo-com.svg"
 ---
 I had problems with my mails from my server got categorized as spam in GMail :-(
     
