@@ -14,3 +14,15 @@ I have adopted the template from [GitHub](https://themes.gohugo.io/themes/hugo-c
 Please be gentle - I am learning ...
 
 The old posts are in md format, so they could be used directly.
+
+Now I can host without `NodeJS`, so I can disable that:
+
+```
+pm2 unstartup
+```
+
+And remove `NodeJS`:
+
+```
+sudo apt purge --autoremove nodejs npm
+```
