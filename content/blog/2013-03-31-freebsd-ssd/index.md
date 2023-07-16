@@ -3,14 +3,16 @@ title: SSD on FreeBSD
 date: '2013-03-31'
 tags: ['SSD', 'FreeBSD']
 draft: false
-summary: 
-images: []
+summary: I added an SSD to my NAS.
+thumbnail: "ssd-svgrepo-com.svg"
 ---
 
+I added an SSD to my NAS.
+
 ```
-1. Single user mode
-2. # mount
-3. # tunefs -t enable /dev/ada0p2
+Single user mode
+# mount
+# tunefs -t enable /dev/ada0p2
 ```
 
 ```

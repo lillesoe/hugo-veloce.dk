@@ -4,7 +4,7 @@ date: '2013-03-17'
 tags: ['FreeBSD', 'USB']
 draft: false
 summary: 
-images: []
+thumbnail: "data-storage-network-svgrepo-com.svg"
 ---
 
 I have (again) changed disk layout on my NAS. I have got a PATA SSD on which I need to install and boot FreeBSD. I hope this can save me som electicity (the non SSD can spin down). And of course it will give me some speed.

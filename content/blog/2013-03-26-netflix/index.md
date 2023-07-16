@@ -4,7 +4,7 @@ date: '2013-03-26'
 tags: ['Netflix', 'linux']
 draft: false
 summary: 
-images: []
+thumbnail: "netflix-svgrepo-com.svg"
 ---
 
 [Code:](http://forums.linuxmint.com/viewtopic.php?f=161&amp;t=128542#) In a terminal...

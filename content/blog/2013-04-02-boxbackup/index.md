@@ -4,7 +4,7 @@ date: '2013-04-02'
 tags: ['FreeBSD', 'backup']
 draft: false
 summary: Setting up Boxbackup
-images: []
+thumbnail: "backup-service-svgrepo-com.svg"
 ---
 
 I have been looking into getting a remote backup. I run TimeMachine backups in my Mac-environment, but I need a remote backup of eg.
@@ -15,7 +15,7 @@ Belov is a description of my installation of the server and a client of a [Boxba
 For the base installation of the client and server software, please consult the [wiki] (http://www.boxbackup.org/wiki/Installation). 
 I will describe my configuration only.
 
-##Server configuration
+## Server configuration
 
 The server is a Dell OptiPlex-760 running Linux Mint Maya. I have reserved 2 disks (1TB each) in the server. 
 These will act as disks in the backup storage. I have made a directory on each of the disks to put the backup files into:
@@ -87,7 +87,7 @@ OptiPlex-760 ~ # bbstoreaccounts create 0 0 970G 1000G
 
 This creates the account `0` on the disk set `0` with a soft limit at `970GB` and a hard limit at `1000GB`.
 
-##Client configuration
+## Client configuration
 
 On the client we need to create a configuration and a certificate that we can send to the administrator of the server 
 (in order to get it signed and registered).

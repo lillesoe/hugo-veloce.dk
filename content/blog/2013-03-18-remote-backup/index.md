@@ -4,7 +4,7 @@ date: '2013-03-18'
 tags: ['Backup', 'zpool', 'Western Digital']
 draft: false
 summary: 
-images: []
+thumbnail: "cloud-plus-svgrepo-com.svg"
 ---
 
 I needed some disks for an external backup project - more on that later. Why not replace some of the disks in the NAS with some bigger, and use the old one in the remote place :-)
