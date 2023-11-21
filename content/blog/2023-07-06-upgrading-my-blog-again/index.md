@@ -26,3 +26,40 @@ And remove `NodeJS`:
 ```
 sudo apt purge --autoremove nodejs npm
 ```
+
+On my MBP I use `brew` to install Hugo:
+
+```
+brew install go
+brew install hugo
+```
+
+Then I am ready to install the source of my blog:
+
+```
+➜  src hugo new site veloce.dk 
+Congratulations! Your new Hugo site was created in /Users/jesper/src/veloce.dk.
+
+Just a few more steps...
+
+1. Change the current directory to /Users/jesper/src/veloce.dk.
+2. Create or install a theme:
+   - Create a new theme with the command "hugo new theme <THEMENAME>"
+   - Install a theme from https://themes.gohugo.io/
+3. Edit hugo.toml, setting the "theme" property to the theme name.
+4. Create new content with the command "hugo new content <SECTIONNAME>/<FILENAME>.<FORMAT>".
+5. Start the embedded web server with the command "hugo server --buildDrafts".
+
+See documentation at https://gohugo.io/.
+➜  src 
+```
+
+I am going to use Hugo Modules:
+
+Use the instruction on the [Theme](https://github.com/chipzoller/hugo-clarity) page to install it as a module.
+
+If you need to keep the modules up to date, use:
+
+```
+hugo mod get -u ./...
+```
