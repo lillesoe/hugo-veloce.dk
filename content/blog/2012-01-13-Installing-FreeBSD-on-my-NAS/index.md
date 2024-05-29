@@ -2,7 +2,7 @@
 title: Installing FreeBSD on my NAS
 date: '2012-01-13'
 tags: ['freebsd']
-draft: false
+draft: true
 summary: Installing FreeBSD on my NAS
 images: []
 ---

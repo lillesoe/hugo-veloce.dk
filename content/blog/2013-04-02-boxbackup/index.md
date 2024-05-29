@@ -2,7 +2,7 @@
 title: Setting up Boxbackup
 date: '2013-04-02'
 tags: ['FreeBSD', 'backup']
-draft: false
+draft: true
 summary: Setting up Boxbackup
 thumbnail: "backup-service-svgrepo-com.svg"
 ---

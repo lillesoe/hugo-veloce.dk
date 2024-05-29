@@ -2,7 +2,7 @@
 title: Get rid of the warning fro AFP shares
 date: '2012-01-24'
 tags: ['AFP', 'netatalk', 'Mac']
-draft: false
+draft: true
 summary: 
 images: []
 ---

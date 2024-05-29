@@ -2,7 +2,7 @@
 title: Remember the permissions for .ssh
 date: '2012-02-10'
 tags: ['ssh', 'permissions', 'login']
-draft: false
+draft: true
 summary: 
 images: []
 ---

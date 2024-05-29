@@ -2,7 +2,7 @@
 title: New disks for the NAS
 date: '2013-03-18'
 tags: ['Backup', 'zpool', 'Western Digital']
-draft: false
+draft: true
 summary: 
 thumbnail: "cloud-plus-svgrepo-com.svg"
 ---

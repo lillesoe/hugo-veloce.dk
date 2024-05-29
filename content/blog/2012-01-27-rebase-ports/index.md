@@ -2,7 +2,7 @@
 title: Keeping my FreeBSD box up-to-date
 date: '2012-01-27'
 tags: ['FreeBSD', 'ports']
-draft: false
+draft: true
 summary: 
 images: []
 ---

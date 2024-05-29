@@ -2,7 +2,7 @@
 title: Netflix in Denmark
 date: '2012-01-20'
 tags: ['netflix', 'appletv']
-draft: false
+draft: true
 summary: Netflix on the Apple TV :-)
 images: []
 ---

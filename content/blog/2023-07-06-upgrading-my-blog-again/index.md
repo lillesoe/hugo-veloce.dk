@@ -2,7 +2,7 @@
 title: Upgrading my blog - again
 date: '2023-07-06'
 tags: ['hello']
-draft: false
+draft: true
 summary: Today I started moving my blog to Hugo
 thumbnail: "blog-svgrepo-com.svg"
 ---

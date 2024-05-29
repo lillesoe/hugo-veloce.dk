@@ -2,7 +2,7 @@
 title: Saving Even More Power
 date: '2022-12-21'
 tags: ['power', 'green', 'linux', 'Raspberry Pi']
-draft: false
+draft: true
 summary: Hosing my blog and gallery from an old Raspberry Pi 3B
 thumbnail: "energy-saving-svgrepo-com.svg"
 ---

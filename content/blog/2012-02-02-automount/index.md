@@ -2,7 +2,7 @@
 title: Automounting AFS shares from the NAS
 date: '2012-02-02'
 tags: ['AFP', 'automount']
-draft: false
+draft: true
 summary: 
 images: []
 ---

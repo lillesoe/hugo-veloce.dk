@@ -2,7 +2,7 @@
 title: Upgrading my blog
 date: '2022-09-09'
 tags: ['hello']
-draft: false
+draft: true
 summary: Today I started moving my blog to NextJS
 thumbnail: "blog-svgrepo-com.svg"
 ---

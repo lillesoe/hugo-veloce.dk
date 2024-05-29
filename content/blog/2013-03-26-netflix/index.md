@@ -2,7 +2,7 @@
 title: Netflix on Linux Mint
 date: '2013-03-26'
 tags: ['Netflix', 'linux']
-draft: false
+draft: true
 summary: 
 thumbnail: "netflix-svgrepo-com.svg"
 ---

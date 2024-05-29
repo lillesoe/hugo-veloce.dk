@@ -2,7 +2,7 @@
 title: Booting FreeBSD from USB
 date: '2013-03-17'
 tags: ['FreeBSD', 'USB']
-draft: false
+draft: true
 summary: 
 thumbnail: "data-storage-network-svgrepo-com.svg"
 ---

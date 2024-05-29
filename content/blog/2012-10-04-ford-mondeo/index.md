@@ -2,7 +2,7 @@
 title: Replacing Ford 6000CD RDS EON
 date: '2012-10-04'
 tags: ['Ford Mondeo', 'radio']
-draft: false
+draft: true
 summary: 
 images: []
 ---

@@ -2,7 +2,7 @@
 title: Making WakeOnLan work
 date: '2013-05-15'
 tags: ['FreeBSD', 'wake-on-lan', 'backup']
-draft: false
+draft: true
 summary: Making WakeOnLan work
 thumbnail: "network-tree-svgrepo-com.svg"
 ---

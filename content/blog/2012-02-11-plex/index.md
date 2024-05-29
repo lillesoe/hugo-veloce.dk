@@ -2,7 +2,7 @@
 title: How not to install Plex Media Server on FreeBSD
 date: '2012-02-11'
 tags: ['FreeBSD', 'Plex Media Server', 'Plex']
-draft: false
+draft: true
 summary: 
 images: []
 ---

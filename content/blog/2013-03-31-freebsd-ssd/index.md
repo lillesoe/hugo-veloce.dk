@@ -2,7 +2,7 @@
 title: SSD on FreeBSD
 date: '2013-03-31'
 tags: ['SSD', 'FreeBSD']
-draft: false
+draft: true
 summary: I added an SSD to my NAS.
 thumbnail: "ssd-svgrepo-com.svg"
 ---

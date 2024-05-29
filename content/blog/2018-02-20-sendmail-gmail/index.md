@@ -2,7 +2,7 @@
 title: Using ssmtp instead of sendmail
 date: '2018-02-20'
 tags: ['FreeBSD', 'sendmail', 'GMail']
-draft: false
+draft: true
 summary: Using ssmtp instead of sendmail
 thumbnail: "email-download-svgrepo-com.svg"
 ---

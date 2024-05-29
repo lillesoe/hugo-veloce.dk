@@ -2,7 +2,7 @@
 title: Remounting geli and ZFS partitions
 date: '2012-01-23'
 tags: ['ZFS', 'geli', 'FreeBSD']
-draft: false
+draft: true
 summary: 
 images: []
 ---

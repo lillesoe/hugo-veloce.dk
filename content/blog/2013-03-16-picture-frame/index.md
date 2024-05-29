@@ -2,7 +2,7 @@
 title: Installing pygame on my Mac
 date: '2013-03-16'
 tags: ['Raspberry Pi', 'Mac', 'pygame']
-draft: false
+draft: true
 summary: 
 images: []
 ---

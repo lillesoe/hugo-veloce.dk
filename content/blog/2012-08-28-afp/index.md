@@ -2,7 +2,7 @@
 title: Using Apple Filing Protocol (AFP) with FreeBSD
 date: '2012-08-28'
 tags: ['AFP', 'FreeBSD']
-draft: false
+draft: true
 summary: 
 images: []
 ---

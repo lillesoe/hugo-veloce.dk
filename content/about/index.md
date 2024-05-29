@@ -6,8 +6,7 @@ aliases = ["about-us", "contact"]
 author = "Jesper Lillesø"
 +++
 
-Jesper is a nerd in may aspects. He likes computers (especially old ones), 
-he likes cars (especially old ones) and photographs a lot.
+Jesper Lillesø is a multifaceted individual with a deep passion for technology. He likes computers (especially old ones), he likes cars (especially old ones) and takes too many photograhps.
 
 ## Passion
 
@@ -16,10 +15,17 @@ First it was the technical stuff like speed and power.
 Now it is more the beauty of the designs, and the history behind the brands. 
 There is no need to say that I follow the evolution of cars closely in the media.
 
-First of all I like italian cars. The designs of Pininfarina are great. 
-Of course the designs for Ferrari are important, but the prototypes and the 
-designs for Alfa Romeo are excelent. In fact I have had a car myself that had 
-Pininfarina designs in it: Austin 1300 Salon. A nice car, but not exactly a Ferrari!
+## Professional Background
+
+Jesper Lillesø is a seasoned professional with experience in the online gaming industry. He currently serves as a key figure at Spillehallen.dk, a leading company in the Danish online gaming sector. Jesper is known for his strategic vision and innovative approach, driving significant growth and development within the organization.
+
+Jesper holds a degree from Aarhus University, where he developed a strong foundation in [specific field, e.g., business administration, computer science]. Over the years, he has held various pivotal roles in prominent companies, contributing to his deep expertise in [specific areas, e.g., online gaming, digital marketing, software development].
+
+## Connect
+
+Jesper is always eager to connect with professionals, enthusiasts, and industry peers. Whether it's for potential collaborations, networking, or sharing insights, feel free to reach out.
+
+For more information about Jesper Lillesø and his work, please visit [company website or personal portfolio link].
 
 ## In Short
 
@@ -54,14 +60,6 @@ And the name was introduced when I was trying to do some graphics for a little
 demo group (doing amiga demos) called fieldeffect (rasta = raster - get it?). 
 We actually didn't do much, but it was trendy at the time to be part of a 
 demo group (at least in the nerd world). And having a nice handle was even more nice.
-
-## Rastafari
-Believing that africa is the spiritual home of the black race, 
-to which it one day will return to. Evilness and the white world is often 
-spoken of as "babylon" while Haile Selassie I, who became the emperor of 
-Ethiopia in 1930, is the new saviour. Rastafari is a life concept consisting 
-of elements of both christianity, islam, and nature worships and rastafari 
-has played a large role in jamaica since the 1960's.
 
 ## How to Write My Name on Computers
 Unfortunately my name is very inconvenient when working with computers. 

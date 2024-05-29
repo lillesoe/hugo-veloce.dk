@@ -2,7 +2,7 @@
 title: FreeBSD 9.0 is released!
 date: '2012-01-12'
 tags: ['freebsd']
-draft: false
+draft: true
 summary: New version of FreeBSD
 images: []
 ---
