@@ -1,3 +1,22 @@
 baseURL = 'http://veloce.dk/'
-languageCode = 'en-us'
-title = 'Veloce$'
+
+defaultContentLanguage = 'da'
+[languages]
+  [languages.da]
+    disabled = false
+    languageCode = 'da'
+    languageDirection = 'ltr'
+    languageName = 'Dansk'
+    title = 'Veloce'
+    weight = 1
+    [languages.de.params]
+      subtitle = 'Fotos og mere'
+  [languages.en]
+    disabled = false
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Veloce'
+    weight = 2
+    [languages.en.params]
+      subtitle = 'Photos and more'
