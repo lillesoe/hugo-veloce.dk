@@ -9,9 +9,24 @@
   weight = -109
 
 [[main]]
+  name = "Blog"
+  url = "blog/"
+  weight = -107
+
+[[main]]
+  name = "Resultater"
+  url = "results/"
+  weight = -106
+
+[[main]]
+  name = "Diverse"
+  url = "misc/"
+  weight = -105
+
+[[main]]
   name = "Om"
   url = "about/"
-  weight = -107
+  weight = -100
 
 # social menu links
 

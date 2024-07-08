@@ -16,12 +16,17 @@
 [[main]]
   name = "Results"
   url = "results/"
-  weight = -107
+  weight = -106
+
+[[main]]
+  name = "Misc"
+  url = "misc/"
+  weight = -105
 
 [[main]]
   name = "About"
   url = "about/"
-  weight = -107
+  weight = -100
 
 # social menu links
 
