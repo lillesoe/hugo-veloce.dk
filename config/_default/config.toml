@@ -8,6 +8,10 @@ paginate = 10
 theme = ["github.com/chipzoller/hugo-clarity"]
 disqusShortname = ""
 
+mainSections = ["Blah"]
+
+since = "1971"
+
 DefaultContentLanguage = "en"
 #[languages]
 #config/_default/languages.toml
