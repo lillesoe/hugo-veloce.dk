@@ -2,7 +2,7 @@
 title: Danish Masters Jyllandsringen
 date: '2024-06-30'
 tags: ['danish masters', 'jyllandsringen']
-draft: false
+draft: true
 toc: true
 summary: Results from Danish Masters
 images: []
