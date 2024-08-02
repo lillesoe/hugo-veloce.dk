@@ -1,5 +1,5 @@
 ---
-title: Lind Hill Climb
+title: Lindum Skov Hill Climb
 date: '2024-05-11'
 tags: ['hill climb', 'lindum', 'hms']
 draft: false
