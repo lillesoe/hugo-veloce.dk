@@ -1,14 +1,14 @@
 ---
 title: Lind Hill Climb
 date: '2024-05-11'
-tags: ['hill climb', 'lind', 'hms']
+tags: ['hill climb', 'lindum', 'hms']
 draft: false
 toc: true
-summary: Results from Lind Hill Climb
+summary: Results from Lindum Skov Hill Climb
 images: []
 ---
 
-Results from the Lind Hill Climb saturday 2024-05-11 in Lind near Herning. Results come from [RallyResult](https://rallyresult.dk/ "RallyResult")
+Results from the Lindum Skov Hill Climb saturday 2024-05-11 in Lindum near Hobro. Results come from [RallyResult](https://rallyresult.dk/ "RallyResult")
 
 ## Qualifying 1
 
