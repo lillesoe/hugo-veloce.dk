@@ -296,7 +296,7 @@ Results from the Lind Hill Climb saturday 2024-06-15 in Lind near Herning. Resul
 
 ## Final Results
 
-| Rank | Nr. | Kører: Navn             | Kører: By     | Co-driver: Navn       | Co-driver: By | Bil: Mærke  | Bil: Model         | Klasse | Heat 1 | Heat 2 | Heat 3 | Penalty | Time    | Gap    |              |
+| Rank | No  | Kører: Name             | Kører: City   | Co-driver: Name       | Co-driver: City| Car: Brand | Car: Model         | Class  | Heat 1 | Heat 2 | Heat 3 | Penalty | Time    | Gap    |              |
 |------|-----|-------------------------|---------------|-----------------------|---------------|-------------|--------------------|--------|--------|--------|--------|---------|---------|--------|--------------|
 | 1    | 10  | Heino Mejer             | Gedved        | Bo Mølgaard Jensen    | Barrit        | Volvo       | 242 Turbo          | 6      | 1:34.6 | 1:31.5 | 1:29.2 |         | 4:35.3  |        |              |
 | 2    | 24  | Rene Mejer              | Daugård       |                       |               | Volvo       | 480 Turbo          | 6      | 1:39.2 | 1:37.2 | 1:36.5 |         | 4:52.9  | 17.6   |              |
