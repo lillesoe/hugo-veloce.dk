@@ -1,7 +1,7 @@
 ---
-title: Lindum Skov Hill Climb
+title: Ryegaard Hill Climb
 date: '2024-05-25'
-tags: ['hill climb', 'lindum', 'hms']
+tags: ['hill climb', 'ryegaard', 'hms']
 draft: false
 toc: true
 summary: Results from Ryegaard Hill Climb
