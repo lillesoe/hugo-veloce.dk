@@ -305,7 +305,7 @@ Results from the Lindum Skov Hill Climb saturday 2024-05-11 in Lindum near Hobro
 
 ## Final Results
 
-| Rank | No   | Kører: Name                | Kører: City       | Co-driver: Name              | Co-driver: City| Car: Brand| Car: Model      | Class | Heat 1   | Heat 2   | Heat 3   | Penalty | Time     | Gap     |        |
+| Rank | No   | Driver: Name               | Driver: City      | Co-driver: Name              | Co-driver: City| Car: Brand| Car: Model      | Class | Heat 1   | Heat 2   | Heat 3   | Penalty | Time     | Gap     |        |
 |------|------|----------------------------|-------------------|------------------------------|----------------|-----------|-----------------|-------|----------|----------|----------|---------|----------|---------|--------|
 | 1    | 8    | Heino Mejer                | Gedved            | Bo Mølgaard Jensen           | Barrit         | Volvo     | 242 Turbo       | 6     | 1:04.100 | 1:09.600 | 1:05.800 | 5.000   | 3:19.500 | -       |        |
 | 2    | 82   | Lars Engebjerg             | Give              |                              |                | Toyota    | Corolla         | 11    | 1:11.700 | 1:12.100 | 1:13.600 | -       | 3:37.400 | 17.900  |        |
