@@ -12,7 +12,7 @@ Results from the Ryegaard Hill Climb saturday 2024-05-25 at Ryegaard and Trudsho
 
 ## Qualifying 1
 
-| Rank | No   | Kører: Name               | Class  | Penalty | Time   |
+| Rank | No   | Driver: Name              | Class  | Penalty | Time   |
 |------|------|---------------------------|--------|---------|--------|
 | 1    | 10   | Jakob Teil Hansen         | HC 6B  |         | 1:27.7 |
 | 2    | 31   | Heino Mejer               | HC 6B  |         | 1:28.6 |
@@ -65,7 +65,7 @@ Results from the Ryegaard Hill Climb saturday 2024-05-25 at Ryegaard and Trudsho
 
 ## Qualifying 2
 
-| Rank | No   | Kører: Name               | Class  | Penalty | Time   |
+| Rank | No   | Driver: Name              | Class  | Penalty | Time   |
 |------|------|---------------------------|--------|---------|--------|
 | 1    | 31   | Heino Mejer               | HC 6B  |         | 1:31.8 |
 | 2    | 10   | Jakob Teil Hansen         | HC 6B  |         | 1:32.6 |
@@ -117,7 +117,7 @@ Results from the Ryegaard Hill Climb saturday 2024-05-25 at Ryegaard and Trudsho
 
 ## Heat 1
 
-| Rank | No   | Kører: Name               | Class  | Penalty | Time   |
+| Rank | No   | Driver: Name              | Class  | Penalty | Time   |
 |------|------|---------------------------|--------|---------|--------|
 | 1    | 31   | Heino Mejer               | HC 6B  |         | 1:32.8 |
 | 2    | 10   | Jakob Teil Hansen         | HC 6B  | 5.0     | 1:40.4 |
@@ -170,7 +170,7 @@ Results from the Ryegaard Hill Climb saturday 2024-05-25 at Ryegaard and Trudsho
 
 ## Heat 2
 
-| Rank | Nr.  | Kører: Navn               | Klasse | Penalty | Time   |
+| Rank | No   | Driver: Navn              | Klasse | Penalty | Time   |
 |------|------|---------------------------|--------|---------|--------|
 | 1    | 31   | Heino Mejer               | HC 6B  |         | 1:34.1 |
 | 2    | 10   | Jakob Teil Hansen         | HC 6B  |         | 1:34.9 |
