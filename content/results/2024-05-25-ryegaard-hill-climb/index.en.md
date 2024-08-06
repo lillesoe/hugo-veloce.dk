@@ -8,7 +8,7 @@ summary: Results from Ryegaard Hill Climb
 images: []
 ---
 
-Results from the Ryegaard Hill Climb saturday 2024-05-25 at Ryegaard and Trudsholm Estates not far from Roskilde. Results come from [RallyResult](https://rallyresult.dk/ "RallyResult")
+Results from the Ryegaard Hill Climb Saturday 2024-05-25 at Ryegaard and Trudsholm Estates not far from Roskilde. Results come from [RallyResult](https://rallyresult.dk/ "RallyResult")
 
 ## Qualifying 1
 
