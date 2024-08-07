@@ -62,8 +62,8 @@ Results from the Lindum Skov Hill Climb saturday 2023-05-13 in Lindum near Hobro
 | 46   | 20   | Christian Fisker          | 8      | +5.0    | 1:37.6 |              |
 | 47   | 56   | Dennis Sørensen           | 10     |         | 1:41.1 |              |
 | 48   | 1    | Sophie Nielsen            | 3      |         | 1:48.1 |              |
-| 49   | 25   | Klaus Christensen         | 9      |         | 3:00.0 |              |
-| 49   | 53   | Lars Skou Laursen         | 5      |         | 3:00.0 |              |
+|      | 25   | Klaus Christensen         | 9      |         |        | DNF          |
+|      | 53   | Lars Skou Laursen         | 5      |         |        | DNF          |
 
 ## Qualifying 2
 
@@ -85,7 +85,7 @@ Results from the Lindum Skov Hill Climb saturday 2023-05-13 in Lindum near Hobro
 | 14   | 35   | Martin Vestergaard        | 6      |         | 1:14.6 |              |
 | 15   | 17   | Martin Lund Andersen      | 9      |         | 1:15.1 |              |
 | 16   | 24   | Preben Møller Jørgensen   | 7      |         | 1:15.3 |              |
-| 16   | 56   | Dennis Sørensen           | 10     |         | 1:15.3 |              |
+| 17   | 56   | Dennis Sørensen           | 10     |         | 1:15.3 |              |
 | 18   | 7    | Jørgen Mogensen           | 9      |         | 1:15.6 |              |
 | 19   | 132  | Jesper Rasmussen          | 11     |         | 1:16.0 |              |
 | 20   | 571  | Jacob Fjord Nielsen       | 9      |         | 1:16.6 |              |
@@ -115,6 +115,9 @@ Results from the Lindum Skov Hill Climb saturday 2023-05-13 in Lindum near Hobro
 | 44   | 6    | Allan Geertsen            | 4      |         | 1:33.5 |              |
 | 45   | 127  | Zebastian Klint Pedersen  | 8      |         | 1:34.2 |              |
 | 46   | 1    | Sophie Nielsen            | 3      |         | 1:39.6 |              |
+|      | 16   | Allan Bjerg Pedersen      | 7      |         |        | DNS          |
+|      | 25   | Klaus Christensen         | 9      |         |        | DNS          |
+|      | 53   | Lars Skou Laursen         | 5      |         |        | DNS          |
 
 ## Heat 1
 
@@ -166,6 +169,10 @@ Results from the Lindum Skov Hill Climb saturday 2023-05-13 in Lindum near Hobro
 | 44   | 127  | Zebastian Klint Pedersen  | 8      |         | 1:30.3 |              |
 | 45   | 6    | Allan Geertsen            | 4      |         | 1:30.7 |              |
 | 46   | 1    | Sophie Nielsen            | 3      |         | 1:40.8 |              |
+|      | 16   | Allan Bjerg Pedersen      | 7      |         |        | DNS          |
+|      | 25   | Klaus Christensen         | 9      |         |        | DNS          |
+|      | 53   | Lars Skou Laursen         | 5      |         |        | DNS          |
+|      | 132  | Jesper Rasmussen          | 11     |         |        | DNS          |
 
 ## Heat 2
 
@@ -216,6 +223,11 @@ Results from the Lindum Skov Hill Climb saturday 2023-05-13 in Lindum near Hobro
 | 43   | 96   | Niels Mørk                | 2      | +10.0   | 1:35.1 |              |
 | 44   | 1    | Sophie Nielsen            | 3      |         | 1:38.3 |              |
 | 45   | 3    | Kristian Mulvad Madsen    | 7      |         | 1:43.5 |              |
+|      | 16   | Allan Bjerg Pedersen      | 7      |         |        | DNS          |
+|      | 25   | Klaus Christensen         | 9      |         |        | DNS          |
+|      | 53   | Lars Skou Laursen         | 5      |         |        | DNS          |
+|      | 11   | Jørgen Hummeluhr          | 10     |         |        | DNS          |
+|      | 132  | Jesper Rasmussen          | 11     |         |        | DNS          |
 
 ## Heat 3
 
@@ -266,11 +278,13 @@ Results from the Lindum Skov Hill Climb saturday 2023-05-13 in Lindum near Hobro
 | 43   | 1    | Sophie Nielsen            | 3      |         | 1:34.8 |              |
 | 44   | 127  | Zebastian Klint Pedersen  | 8      |         | 1:41.5 |              |
 | 45   | 56   | Dennis Sørensen           | 10     |         | 3:00.0 |              |
+|      | 16   | Allan Bjerg Pedersen      | 7      |         |        | DNS          |
+|      | 25   | Klaus Christensen         | 9      |         |        | DNS          |
+|      | 53   | Lars Skou Laursen         | 5      |         |        | DNS          |
+|      | 11   | Jørgen Hummeluhr          | 10     |         |        | DNS          |
+|      | 132  | Jesper Rasmussen          | 11     |         |        | DNS          |
 
 ## Final Results
-
-| Rank | No   | Driver: Name               | Driver: City      | Co-driver: Name              | Co-driver: City| Car: Brand| Car: Model      | Class | Heat 1   | Heat 2   | Heat 3   | Penalty | Time     | Gap     |        |
-|------|------|----------------------------|-------------------|------------------------------|----------------|-----------|-----------------|-------|----------|----------|----------|---------|----------|---------|--------|
 
 | Rank | No  | Driver: Name               | Co-driver: Name          | Car                  | Heat 1 | Heat 2 | Heat 3 | Penalty | Time   |       |
 |------|-----|----------------------------|--------------------------|----------------------|--------|--------|--------|---------|--------|-------|
@@ -319,4 +333,8 @@ Results from the Lindum Skov Hill Climb saturday 2023-05-13 in Lindum near Hobro
 | 43   | 127 | Zebastian Klint Pedersen   |                          | Fiat 127             | 1:30.3 | 1:30.9 | 1:41.5 |         | 4:42.7 |       |
 | 44   | 1   | Sophie Nielsen             |                          | MG MGB               | 1:40.8 | 1:38.3 | 1:34.8 |         | 4:53.9 |       |
 | 45   | 56  | Dennis Sørensen            |                          | BMW E30 320i         | 1:11.7 | 1:10.2 | 3:00.0 |         | 5:21.9 |       |
-|      | 11  | Jørgen Hummeluhr           |                          | BMW 325i             | 1:19.0 |        |        |         |        |       |
+|      | 11  | Jørgen Hummeluhr           |                          | BMW 325i             | 1:19.0 |        |        |         |        | DNF   |
+|      | 16  | Allan Bjerg Pedersen       |                          | Ford Escort          |        |        |        |         |        | DNF   |
+|      | 25  | Klaus Christensen          |                          | VW Polo coupe        |        |        |        |         |        | DNF   |
+|      | 53  | Lars Skou Laursen          |                          | Hillman Imp          |        |        |        |         |        | DNF   |
+|      | 132 | Jesper Rasmussen           |                          | Opel Kadett GSI 16V  |        |        |        |         |        | DNF   |
