@@ -8,7 +8,7 @@ summary: Results from Sjællands Hill Climb
 images: []
 ---
 
-Results from the Sjællands Hill Climb saturday 2024-05-26 near Viby J. Results come from [RallyResult](https://rallyresult.dk/ "RallyResult")
+Results from the Sjællands Hill Climb Sunday 2024-05-26 near Viby J. Results come from [RallyResult](https://rallyresult.dk/ "RallyResult")
 
 ## Qualifying 1
 
