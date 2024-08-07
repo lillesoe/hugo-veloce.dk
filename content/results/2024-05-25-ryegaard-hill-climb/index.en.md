@@ -12,211 +12,211 @@ Results from the Ryegaard Hill Climb saturday 2024-05-25 at Ryegaard and Trudsho
 
 ## Qualifying 1
 
-| Rank | No   | Driver: Name              | Class  | Penalty | Time   |
-|------|------|---------------------------|--------|---------|--------|
-| 1    | 10   | Jakob Teil Hansen         | HC 6B  |         | 1:27.7 |
-| 2    | 31   | Heino Mejer               | HC 6B  |         | 1:28.6 |
-| 3    | 8    | Kurt Mejer                | HC 6B  |         | 1:33.3 |
-| 4    | 911  | Johnny Andersen           | HC 11B |         | 1:38.0 |
-| 5    | 230  | Erik Mortensen            | HC 11B |         | 1:38.4 |
-| 6    | 27   | Rolf Schröder             | HC 11B |         | 1:38.5 |
-| 7    | 35   | Martin Vestergaard        | HC 5B  |         | 1:38.8 |
-| 8    | 26   | Kasper Schønberg          | HC 10B |         | 1:39.7 |
-| 9    | 28   | Michael René Christensen  | HC 11B |         | 1:40.0 |
-| 10   | 12   | Allan Bjerg Pedersen      | HC 6B  |         | 1:40.1 |
-| 11   | 22   | Finn Jensen               | HC 10B |         | 1:41.6 |
-| 12   | 56   | Dennis Sørensen           | HC 9B  |         | 1:42.0 |
-| 13   | 29   | Tim Svanholt              | HC 6B  |         | 1:42.4 |
-| 14   | 6    | Kenneth Jørgensen         | HC 5B  |         | 1:42.5 |
-| 15   | 5    | Poul Pape Juel Jensen     | HC 5B  |         | 1:43.0 |
-| 16   | 23   | Thomas Korgaard           | HC 10B |         | 1:43.1 |
-| 17   | 24   | Jan Hjersted              | HC 10B |         | 1:43.4 |
-| 18   | 1    | Martin Christensen        | HC 6B  |         | 1:43.6 |
-| 19   | 58   | Brian Rasmussen           | HC 9B  |         | 1:43.7 |
-| 20   | 9    | Erik Maagaard             | HC 6B  |         | 1:44.8 |
-| 21   | 15   | Christian Krogh Stender   | HC 8A  |         | 1:45.0 |
-| 22   | 11   | Jørgen Hummeluhr          | HC 10B |         | 1:45.1 |
-| 23   | 571  | Jacob Fjord Nielsen       | HC 8A  |         | 1:45.8 |
-| 24   | 85   | Mark Skarsfeldt           | HC 8A  |         | 1:46.7 |
-| 25   | 19   | Bjarne Grønbæk Jensen     | HC 11B | 10.0    | 1:47.4 |
-| 26   | 752  | Thomas Sommer             | HC 7A  |         | 1:49.5 |
-| 27   | 16   | Kim Windt Christensen     | HC 9B  |         | 1:49.7 |
-| 28   | 500  | Henrik Lykke              | HC 8A  |         | 1:50.6 |
-| 29   | 20   | Bjarne Olsen              | HC 9B  |         | 1:52.1 |
-| 30   | 888  | Jacob Emil Lassen         | HC 7A  |         | 1:52.3 |
-| 31   | 84   | Poul Mandrup Christensen  | HC 4B  | 5.0     | 1:52.4 |
-| 32   | 21   | Morten Mejdal             | HC 9B  |         | 1:53.5 |
-| 33   | 18   | Lars Jensen               | HC 9B  |         | 1:53.6 |
-| 34   | 87   | Søren Harritslev Andersen | HC 9B  | 5.0     | 1:54.3 |
-| 35   | 30   | Brian Brogaard            | HC 3A  |         | 1:54.9 |
-| 36   | 232  | Pernille Lindeberg        | HC 3A  |         | 1:57.1 |
-| 37   | 100  | Rikke Fulton Wiilsbøll    | HC 8A  |         | 1:59.1 |
-| 38   | 173  | Michael Smed              | HC 5B  | 15.0    | 2:01.6 |
-| 39   | 7    | Per Holm                  | HC 5B  |         | 2:02.4 |
-| 40   | 365  | Martin Sten Madsen        | HC 7A  |         | 2:02.9 |
-| 41   | 2    | Rene Jørgensen            | HC 1A  |         | 2:04.4 |
-| 42   | 944  | Stiig Broby               | HC 10B | 25.0    | 2:06.6 |
-| 43   | 14   | Poul-Erik Petersen        | HC 7A  |         | 2:12.3 |
-| 44   | 3    | Lene Aastrøm Hansen       | HC 2A  |         | 2:17.5 |
-| 45   | 50   | Henrik Lykke-             | HC 3A  |         | 2:23.9 |
-| 46   | 4    | Bjarne Hogrefe Nielsen    | HC 3A  | 5.0     | 2:36.6 |
-| -    | 17   | Flemming Mariegaard       | HC 9B  |         | DNS    |
-| -    | 25   | Michael Ørnstrup Nielsen  | HC 10B |         | DNS    |
+| Rank | No   | Driver: Name              | Class  | Penalty | Time   |              |
+|------|------|---------------------------|--------|---------|--------|--------------|
+| 1    | 10   | Jakob Teil Hansen         | HC 6B  |         | 1:27.7 |              |
+| 2    | 31   | Heino Mejer               | HC 6B  |         | 1:28.6 |              |
+| 3    | 8    | Kurt Mejer                | HC 6B  |         | 1:33.3 |              |
+| 4    | 911  | Johnny Andersen           | HC 11B |         | 1:38.0 |              |
+| 5    | 230  | Erik Mortensen            | HC 11B |         | 1:38.4 |              |
+| 6    | 27   | Rolf Schröder             | HC 11B |         | 1:38.5 |              |
+| 7    | 35   | Martin Vestergaard        | HC 5B  |         | 1:38.8 |              |
+| 8    | 26   | Kasper Schønberg          | HC 10B |         | 1:39.7 |              |
+| 9    | 28   | Michael René Christensen  | HC 11B |         | 1:40.0 |              |
+| 10   | 12   | Allan Bjerg Pedersen      | HC 6B  |         | 1:40.1 |              |
+| 11   | 22   | Finn Jensen               | HC 10B |         | 1:41.6 |              |
+| 12   | 56   | Dennis Sørensen           | HC 9B  |         | 1:42.0 |              |
+| 13   | 29   | Tim Svanholt              | HC 6B  |         | 1:42.4 |              |
+| 14   | 6    | Kenneth Jørgensen         | HC 5B  |         | 1:42.5 |              |
+| 15   | 5    | Poul Pape Juel Jensen     | HC 5B  |         | 1:43.0 |              |
+| 16   | 23   | Thomas Korgaard           | HC 10B |         | 1:43.1 |              |
+| 17   | 24   | Jan Hjersted              | HC 10B |         | 1:43.4 |              |
+| 18   | 1    | Martin Christensen        | HC 6B  |         | 1:43.6 |              |
+| 19   | 58   | Brian Rasmussen           | HC 9B  |         | 1:43.7 |              |
+| 20   | 9    | Erik Maagaard             | HC 6B  |         | 1:44.8 |              |
+| 21   | 15   | Christian Krogh Stender   | HC 8A  |         | 1:45.0 |              |
+| 22   | 11   | Jørgen Hummeluhr          | HC 10B |         | 1:45.1 |              |
+| 23   | 571  | Jacob Fjord Nielsen       | HC 8A  |         | 1:45.8 |              |
+| 24   | 85   | Mark Skarsfeldt           | HC 8A  |         | 1:46.7 |              |
+| 25   | 19   | Bjarne Grønbæk Jensen     | HC 11B | 10.0    | 1:47.4 |              |
+| 26   | 752  | Thomas Sommer             | HC 7A  |         | 1:49.5 |              |
+| 27   | 16   | Kim Windt Christensen     | HC 9B  |         | 1:49.7 |              |
+| 28   | 500  | Henrik Lykke              | HC 8A  |         | 1:50.6 |              |
+| 29   | 20   | Bjarne Olsen              | HC 9B  |         | 1:52.1 |              |
+| 30   | 888  | Jacob Emil Lassen         | HC 7A  |         | 1:52.3 |              |
+| 31   | 84   | Poul Mandrup Christensen  | HC 4B  | 5.0     | 1:52.4 |              |
+| 32   | 21   | Morten Mejdal             | HC 9B  |         | 1:53.5 |              |
+| 33   | 18   | Lars Jensen               | HC 9B  |         | 1:53.6 |              |
+| 34   | 87   | Søren Harritslev Andersen | HC 9B  | 5.0     | 1:54.3 |              |
+| 35   | 30   | Brian Brogaard            | HC 3A  |         | 1:54.9 |              |
+| 36   | 232  | Pernille Lindeberg        | HC 3A  |         | 1:57.1 |              |
+| 37   | 100  | Rikke Fulton Wiilsbøll    | HC 8A  |         | 1:59.1 |              |
+| 38   | 173  | Michael Smed              | HC 5B  | 15.0    | 2:01.6 |              |
+| 39   | 7    | Per Holm                  | HC 5B  |         | 2:02.4 |              |
+| 40   | 365  | Martin Sten Madsen        | HC 7A  |         | 2:02.9 |              |
+| 41   | 2    | Rene Jørgensen            | HC 1A  |         | 2:04.4 |              |
+| 42   | 944  | Stiig Broby               | HC 10B | 25.0    | 2:06.6 |              |
+| 43   | 14   | Poul-Erik Petersen        | HC 7A  |         | 2:12.3 |              |
+| 44   | 3    | Lene Aastrøm Hansen       | HC 2A  |         | 2:17.5 |              |
+| 45   | 50   | Henrik Lykke-             | HC 3A  |         | 2:23.9 |              |
+| 46   | 4    | Bjarne Hogrefe Nielsen    | HC 3A  | 5.0     | 2:36.6 |              |
+| -    | 17   | Flemming Mariegaard       | HC 9B  |         |        | DNS          |
+| -    | 25   | Michael Ørnstrup Nielsen  | HC 10B |         |        | DNS          |
 
 ## Qualifying 2
 
-| Rank | No   | Driver: Name              | Class  | Penalty | Time   |
-|------|------|---------------------------|--------|---------|--------|
-| 1    | 31   | Heino Mejer               | HC 6B  |         | 1:31.8 |
-| 2    | 10   | Jakob Teil Hansen         | HC 6B  |         | 1:32.6 |
-| 3    | 28   | Michael René Christensen  | HC 11B |         | 1:41.5 |
-| 4    | 19   | Bjarne Grønbæk Jensen     | HC 11B |         | 1:42.4 |
-| 5    | 911  | Johnny Andersen           | HC 11B |         | 1:42.5 |
-| 6    | 26   | Kasper Schønberg          | HC 10B |         | 1:44.0 |
-| 7    | 11   | Jørgen Hummeluhr          | HC 10B |         | 1:45.2 |
-| 8    | 29   | Tim Svanholt              | HC 6B  |         | 1:45.5 |
-| 9    | 8    | Kurt Mejer                | HC 6B  | 5.0     | 1:46.0 |
-| 10   | 5    | Poul Pape Juel Jensen     | HC 5B  |         | 1:46.4 |
-| 11   | 23   | Thomas Korgaard           | HC 10B |         | 1:47.0 |
-| 12   | 230  | Erik Mortensen            | HC 11B |         | 1:47.4 |
-| 12   | 15   | Christian Krogh Stender   | HC 8A  |         | 1:47.4 |
-| 14   | 944  | Stiig Broby               | HC 10B |         | 1:47.8 |
-| 15   | 6    | Kenneth Jørgensen         | HC 5B  |         | 1:48.3 |
-| 16   | 9    | Erik Maagaard             | HC 6B  |         | 1:48.4 |
-| 17   | 56   | Dennis Sørensen           | HC 9B  |         | 1:48.5 |
-| 18   | 58   | Brian Rasmussen           | HC 9B  |         | 1:49.2 |
-| 19   | 22   | Finn Jensen               | HC 10B |         | 1:51.2 |
-| 20   | 85   | Mark Skarsfeldt           | HC 8A  |         | 1:51.3 |
-| 21   | 571  | Jacob Fjord Nielsen       | HC 8A  |         | 1:52.1 |
-| 22   | 35   | Martin Vestergaard        | HC 5B  |         | 1:52.3 |
-| 23   | 84   | Poul Mandrup Christensen  | HC 4B  |         | 1:52.8 |
-| 24   | 24   | Jan Hjersted              | HC 10B |         | 1:53.3 |
-| 25   | 50   | Henrik Lykke-             | HC 3A  |         | 1:53.6 |
-| 26   | 18   | Lars Jensen               | HC 9B  |         | 1:54.3 |
-| 26   | 16   | Kim Windt Christensen     | HC 9B  |         | 1:54.3 |
-| 28   | 1    | Martin Christensen        | HC 6B  |         | 1:55.7 |
-| 29   | 27   | Rolf Schröder             | HC 11B | 10.0    | 1:55.9 |
-| 30   | 173  | Michael Smed              | HC 5B  | 5.0     | 1:56.0 |
-| 31   | 87   | Søren Harritslev Andersen | HC 9B  |         | 1:56.7 |
-| 32   | 888  | Jacob Emil Lassen         | HC 7A  |         | 1:57.3 |
-| 33   | 21   | Morten Mejdal             | HC 9B  |         | 1:57.8 |
-| 34   | 30   | Brian Brogaard            | HC 3A  |         | 1:59.3 |
-| 35   | 12   | Allan Bjerg Pedersen      | HC 6B  |         | 2:00.3 |
-| 36   | 20   | Bjarne Olsen              | HC 9B  | 5.0     | 2:02.1 |
-| 37   | 752  | Thomas Sommer             | HC 7A  | 5.0     | 2:02.2 |
-| 38   | 232  | Pernille Lindeberg        | HC 3A  |         | 2:04.1 |
-| 39   | 100  | Rikke Fulton Wiilsbøll    | HC 8A  | 10.0    | 2:06.2 |
-| 40   | 365  | Martin Sten Madsen        | HC 7A  |         | 2:07.6 |
-| 41   | 2    | Rene Jørgensen            | HC 1A  |         | 2:11.0 |
-| 42   | 7    | Per Holm                  | HC 5B  | 10.0    | 2:11.4 |
-| 43   | 14   | Poul-Erik Petersen        | HC 7A  |         | 2:18.8 |
-| 44   | 4    | Bjarne Hogrefe Nielsen    | HC 3A  |         | 2:55.8 |
-| -    | 3    | Lene Aastrøm Hansen       | HC 2A  |         | DNS    |
-| -    | 500  | Henrik Lykke              | HC 8A  |         | DNS    |
+| Rank | No   | Driver: Name              | Class  | Penalty | Time   |              |
+|------|------|---------------------------|--------|---------|--------|--------------|
+| 1    | 31   | Heino Mejer               | HC 6B  |         | 1:31.8 |              |
+| 2    | 10   | Jakob Teil Hansen         | HC 6B  |         | 1:32.6 |              |
+| 3    | 28   | Michael René Christensen  | HC 11B |         | 1:41.5 |              |
+| 4    | 19   | Bjarne Grønbæk Jensen     | HC 11B |         | 1:42.4 |              |
+| 5    | 911  | Johnny Andersen           | HC 11B |         | 1:42.5 |              |
+| 6    | 26   | Kasper Schønberg          | HC 10B |         | 1:44.0 |              |
+| 7    | 11   | Jørgen Hummeluhr          | HC 10B |         | 1:45.2 |              |
+| 8    | 29   | Tim Svanholt              | HC 6B  |         | 1:45.5 |              |
+| 9    | 8    | Kurt Mejer                | HC 6B  | 5.0     | 1:46.0 |              |
+| 10   | 5    | Poul Pape Juel Jensen     | HC 5B  |         | 1:46.4 |              |
+| 11   | 23   | Thomas Korgaard           | HC 10B |         | 1:47.0 |              |
+| 12   | 230  | Erik Mortensen            | HC 11B |         | 1:47.4 |              |
+| 12   | 15   | Christian Krogh Stender   | HC 8A  |         | 1:47.4 |              |
+| 14   | 944  | Stiig Broby               | HC 10B |         | 1:47.8 |              |
+| 15   | 6    | Kenneth Jørgensen         | HC 5B  |         | 1:48.3 |              |
+| 16   | 9    | Erik Maagaard             | HC 6B  |         | 1:48.4 |              |
+| 17   | 56   | Dennis Sørensen           | HC 9B  |         | 1:48.5 |              |
+| 18   | 58   | Brian Rasmussen           | HC 9B  |         | 1:49.2 |              |
+| 19   | 22   | Finn Jensen               | HC 10B |         | 1:51.2 |              |
+| 20   | 85   | Mark Skarsfeldt           | HC 8A  |         | 1:51.3 |              |
+| 21   | 571  | Jacob Fjord Nielsen       | HC 8A  |         | 1:52.1 |              |
+| 22   | 35   | Martin Vestergaard        | HC 5B  |         | 1:52.3 |              |
+| 23   | 84   | Poul Mandrup Christensen  | HC 4B  |         | 1:52.8 |              |
+| 24   | 24   | Jan Hjersted              | HC 10B |         | 1:53.3 |              |
+| 25   | 50   | Henrik Lykke-             | HC 3A  |         | 1:53.6 |              |
+| 26   | 18   | Lars Jensen               | HC 9B  |         | 1:54.3 |              |
+| 26   | 16   | Kim Windt Christensen     | HC 9B  |         | 1:54.3 |              |
+| 28   | 1    | Martin Christensen        | HC 6B  |         | 1:55.7 |              |
+| 29   | 27   | Rolf Schröder             | HC 11B | 10.0    | 1:55.9 |              |
+| 30   | 173  | Michael Smed              | HC 5B  | 5.0     | 1:56.0 |              |
+| 31   | 87   | Søren Harritslev Andersen | HC 9B  |         | 1:56.7 |              |
+| 32   | 888  | Jacob Emil Lassen         | HC 7A  |         | 1:57.3 |              |
+| 33   | 21   | Morten Mejdal             | HC 9B  |         | 1:57.8 |              |
+| 34   | 30   | Brian Brogaard            | HC 3A  |         | 1:59.3 |              |
+| 35   | 12   | Allan Bjerg Pedersen      | HC 6B  |         | 2:00.3 |              |
+| 36   | 20   | Bjarne Olsen              | HC 9B  | 5.0     | 2:02.1 |              |
+| 37   | 752  | Thomas Sommer             | HC 7A  | 5.0     | 2:02.2 |              |
+| 38   | 232  | Pernille Lindeberg        | HC 3A  |         | 2:04.1 |              |
+| 39   | 100  | Rikke Fulton Wiilsbøll    | HC 8A  | 10.0    | 2:06.2 |              |
+| 40   | 365  | Martin Sten Madsen        | HC 7A  |         | 2:07.6 |              |
+| 41   | 2    | Rene Jørgensen            | HC 1A  |         | 2:11.0 |              |
+| 42   | 7    | Per Holm                  | HC 5B  | 10.0    | 2:11.4 |              |
+| 43   | 14   | Poul-Erik Petersen        | HC 7A  |         | 2:18.8 |              |
+| 44   | 4    | Bjarne Hogrefe Nielsen    | HC 3A  |         | 2:55.8 |              |
+| -    | 3    | Lene Aastrøm Hansen       | HC 2A  |         |        | DNS          |
+| -    | 500  | Henrik Lykke              | HC 8A  |         |        | DNS          |
 
 
 ## Heat 1
 
-| Rank | No   | Driver: Name              | Class  | Penalty | Time   |
-|------|------|---------------------------|--------|---------|--------|
-| 1    | 31   | Heino Mejer               | HC 6B  |         | 1:32.8 |
-| 2    | 10   | Jakob Teil Hansen         | HC 6B  | 5.0     | 1:40.4 |
-| 3    | 28   | Michael René Christensen  | HC 11B |         | 1:41.7 |
-| 4    | 26   | Kasper Schønberg          | HC 10B |         | 1:41.9 |
-| 5    | 35   | Martin Vestergaard        | HC 5B  |         | 1:44.2 |
-| 5    | 11   | Jørgen Hummeluhr          | HC 10B |         | 1:44.2 |
-| 7    | 230  | Erik Mortensen            | HC 11B |         | 1:44.9 |
-| 8    | 6    | Kenneth Jørgensen         | HC 5B  |         | 1:45.4 |
-| 9    | 5    | Poul Pape Juel Jensen     | HC 5B  |         | 1:46.2 |
-| 10   | 911  | Johnny Andersen           | HC 11B |         | 1:46.3 |
-| 11   | 19   | Bjarne Grønbæk Jensen     | HC 11B | 5.0     | 1:46.6 |
-| 11   | 15   | Christian Krogh Stender   | HC 8A  |         | 1:46.6 |
-| 13   | 23   | Thomas Korgaard           | HC 10B |         | 1:46.7 |
-| 13   | 12   | Allan Bjerg Pedersen      | HC 6B  |         | 1:46.7 |
-| 15   | 29   | Tim Svanholt              | HC 6B  | 5.0     | 1:46.8 |
-| 16   | 56   | Dennis Sørensen           | HC 9B  |         | 1:47.2 |
-| 17   | 58   | Brian Rasmussen           | HC 9B  |         | 1:47.3 |
-| 18   | 173  | Michael Smed              | HC 5B  |         | 1:48.4 |
-| 19   | 9    | Erik Maagaard             | HC 6B  |         | 1:49.0 |
-| 20   | 1    | Martin Christensen        | HC 6B  |         | 1:49.2 |
-| 21   | 571  | Jacob Fjord Nielsen       | HC 8A  |         | 1:50.1 |
-| 22   | 85   | Mark Skarsfeldt           | HC 8A  |         | 1:50.2 |
-| 23   | 16   | Kim Windt Christensen     | HC 9B  |         | 1:52.3 |
-| 24   | 8    | Kurt Mejer                | HC 6B  | 10.0    | 1:52.9 |
-| 25   | 944  | Stiig Broby               | HC 10B | 5.0     | 1:53.3 |
-| 26   | 87   | Søren Harritslev Andersen | HC 9B  |         | 1:53.9 |
-| 27   | 18   | Lars Jensen               | HC 9B  |         | 1:54.7 |
-| 28   | 500  | Henrik Lykke              | HC 8A  | 5.0     | 1:54.8 |
-| 28   | 84   | Poul Mandrup Christensen  | HC 4B  | 5.0     | 1:54.8 |
-| 30   | 21   | Morten Mejdal             | HC 9B  |         | 1:56.4 |
-| 31   | 27   | Rolf Schröder             | HC 11B | 10.0    | 1:57.5 |
-| 32   | 752  | Thomas Sommer             | HC 7A  |         | 1:57.9 |
-| 33   | 50   | Henrik Lykke-             | HC 3A  | 5.0     | 1:58.0 |
-| 34   | 100  | Rikke Fulton Wiilsbøll    | HC 8A  |         | 1:58.3 |
-| 35   | 22   | Finn Jensen               | HC 10B | 10.0    | 1:58.9 |
-| 35   | 7    | Per Holm                  | HC 5B  |         | 1:58.9 |
-| 37   | 24   | Jan Hjersted              | HC 10B | 5.0     | 2:02.7 |
-| 38   | 888  | Jacob Emil Lassen         | HC 7A  | 5.0     | 2:03.0 |
-| 39   | 365  | Martin Sten Madsen        | HC 7A  |         | 2:05.9 |
-| 40   | 20   | Bjarne Olsen              | HC 9B  | 10.0    | 2:06.7 |
-| 41   | 30   | Brian Brogaard            | HC 3A  |         | 2:07.7 |
-| 42   | 232  | Pernille Lindeberg        | HC 3A  | 5.0     | 2:08.6 |
-| 43   | 2    | Rene Jørgensen            | HC 1A  |         | 2:10.1 |
-| 44   | 14   | Poul-Erik Petersen        | HC 7A  |         | 2:19.0 |
-| 45   | 4    | Bjarne Hogrefe Nielsen    | HC 3A  |         | 2:47.0 |
-| -    | 3    | Lene Aastrøm Hansen       | HC 2A  |         | DNS    |
-| -    | 17   | Flemming Mariegaard       | HC 9B  |         | DNS    |
-| -    | 25   | Michael Ørnstrup Nielsen  | HC 10B |         | DNS    |
+| Rank | No   | Driver: Name              | Class  | Penalty | Time   |              |
+|------|------|---------------------------|--------|---------|--------|--------------|
+| 1    | 31   | Heino Mejer               | HC 6B  |         | 1:32.8 |              |
+| 2    | 10   | Jakob Teil Hansen         | HC 6B  | 5.0     | 1:40.4 |              |
+| 3    | 28   | Michael René Christensen  | HC 11B |         | 1:41.7 |              |
+| 4    | 26   | Kasper Schønberg          | HC 10B |         | 1:41.9 |              |
+| 5    | 35   | Martin Vestergaard        | HC 5B  |         | 1:44.2 |              |
+| 5    | 11   | Jørgen Hummeluhr          | HC 10B |         | 1:44.2 |              |
+| 7    | 230  | Erik Mortensen            | HC 11B |         | 1:44.9 |              |
+| 8    | 6    | Kenneth Jørgensen         | HC 5B  |         | 1:45.4 |              |
+| 9    | 5    | Poul Pape Juel Jensen     | HC 5B  |         | 1:46.2 |              |
+| 10   | 911  | Johnny Andersen           | HC 11B |         | 1:46.3 |              |
+| 11   | 19   | Bjarne Grønbæk Jensen     | HC 11B | 5.0     | 1:46.6 |              |
+| 11   | 15   | Christian Krogh Stender   | HC 8A  |         | 1:46.6 |              |
+| 13   | 23   | Thomas Korgaard           | HC 10B |         | 1:46.7 |              |
+| 13   | 12   | Allan Bjerg Pedersen      | HC 6B  |         | 1:46.7 |              |
+| 15   | 29   | Tim Svanholt              | HC 6B  | 5.0     | 1:46.8 |              |
+| 16   | 56   | Dennis Sørensen           | HC 9B  |         | 1:47.2 |              |
+| 17   | 58   | Brian Rasmussen           | HC 9B  |         | 1:47.3 |              |
+| 18   | 173  | Michael Smed              | HC 5B  |         | 1:48.4 |              |
+| 19   | 9    | Erik Maagaard             | HC 6B  |         | 1:49.0 |              |
+| 20   | 1    | Martin Christensen        | HC 6B  |         | 1:49.2 |              |
+| 21   | 571  | Jacob Fjord Nielsen       | HC 8A  |         | 1:50.1 |              |
+| 22   | 85   | Mark Skarsfeldt           | HC 8A  |         | 1:50.2 |              |
+| 23   | 16   | Kim Windt Christensen     | HC 9B  |         | 1:52.3 |              |
+| 24   | 8    | Kurt Mejer                | HC 6B  | 10.0    | 1:52.9 |              |
+| 25   | 944  | Stiig Broby               | HC 10B | 5.0     | 1:53.3 |              |
+| 26   | 87   | Søren Harritslev Andersen | HC 9B  |         | 1:53.9 |              |
+| 27   | 18   | Lars Jensen               | HC 9B  |         | 1:54.7 |              |
+| 28   | 500  | Henrik Lykke              | HC 8A  | 5.0     | 1:54.8 |              |
+| 28   | 84   | Poul Mandrup Christensen  | HC 4B  | 5.0     | 1:54.8 |              |
+| 30   | 21   | Morten Mejdal             | HC 9B  |         | 1:56.4 |              |
+| 31   | 27   | Rolf Schröder             | HC 11B | 10.0    | 1:57.5 |              |
+| 32   | 752  | Thomas Sommer             | HC 7A  |         | 1:57.9 |              |
+| 33   | 50   | Henrik Lykke-             | HC 3A  | 5.0     | 1:58.0 |              |
+| 34   | 100  | Rikke Fulton Wiilsbøll    | HC 8A  |         | 1:58.3 |              |
+| 35   | 22   | Finn Jensen               | HC 10B | 10.0    | 1:58.9 |              |
+| 35   | 7    | Per Holm                  | HC 5B  |         | 1:58.9 |              |
+| 37   | 24   | Jan Hjersted              | HC 10B | 5.0     | 2:02.7 |              |
+| 38   | 888  | Jacob Emil Lassen         | HC 7A  | 5.0     | 2:03.0 |              |
+| 39   | 365  | Martin Sten Madsen        | HC 7A  |         | 2:05.9 |              |
+| 40   | 20   | Bjarne Olsen              | HC 9B  | 10.0    | 2:06.7 |              |
+| 41   | 30   | Brian Brogaard            | HC 3A  |         | 2:07.7 |              |
+| 42   | 232  | Pernille Lindeberg        | HC 3A  | 5.0     | 2:08.6 |              |
+| 43   | 2    | Rene Jørgensen            | HC 1A  |         | 2:10.1 |              |
+| 44   | 14   | Poul-Erik Petersen        | HC 7A  |         | 2:19.0 |              |
+| 45   | 4    | Bjarne Hogrefe Nielsen    | HC 3A  |         | 2:47.0 |              |
+| -    | 3    | Lene Aastrøm Hansen       | HC 2A  |         |        | DNS          |
+| -    | 17   | Flemming Mariegaard       | HC 9B  |         |        | DNS          |
+| -    | 25   | Michael Ørnstrup Nielsen  | HC 10B |         |        | DNS          |
 
 ## Heat 2
 
-| Rank | No   | Driver: Navn              | Klasse | Penalty | Time   |
-|------|------|---------------------------|--------|---------|--------|
-| 1    | 31   | Heino Mejer               | HC 6B  |         | 1:34.1 |
-| 2    | 10   | Jakob Teil Hansen         | HC 6B  |         | 1:34.9 |
-| 3    | 29   | Tim Svanholt              | HC 6B  |         | 1:41.1 |
-| 4    | 28   | Michael René Christensen  | HC 11B |         | 1:42.8 |
-| 5    | 8    | Kurt Mejer                | HC 6B  |         | 1:42.9 |
-| 6    | 19   | Bjarne Grønbæk Jensen     | HC 11B |         | 1:43.3 |
-| 7    | 911  | Johnny Andersen           | HC 11B |         | 1:43.5 |
-| 8    | 35   | Martin Vestergaard        | HC 5B  |         | 1:44.1 |
-| 9    | 12   | Allan Bjerg Pedersen      | HC 6B  |         | 1:44.2 |
-| 10   | 23   | Thomas Korgaard           | HC 10B |         | 1:44.4 |
-| 11   | 56   | Dennis Sørensen           | HC 9B  |         | 1:44.6 |
-| 11   | 11   | Jørgen Hummeluhr          | HC 10B |         | 1:44.6 |
-| 13   | 26   | Kasper Schønberg          | HC 10B | 5.0     | 1:44.7 |
-| 14   | 6    | Kenneth Jørgensen         | HC 5B  |         | 1:45.0 |
-| 15   | 230  | Erik Mortensen            | HC 11B |         | 1:45.3 |
-| 16   | 27   | Rolf Schröder             | HC 11B |         | 1:46.5 |
-| 17   | 15   | Christian Krogh Stender   | HC 8A  |         | 1:47.2 |
-| 18   | 58   | Brian Rasmussen           | HC 9B  |         | 1:48.4 |
-| 19   | 944  | Stiig Broby               | HC 10B |         | 1:48.6 |
-| 19   | 5    | Poul Pape Juel Jensen     | HC 5B  |         | 1:48.6 |
-| 21   | 9    | Erik Maagaard             | HC 6B  |         | 1:48.9 |
-| 22   | 85   | Mark Skarsfeldt           | HC 8A  |         | 1:49.0 |
-| 23   | 571  | Jacob Fjord Nielsen       | HC 8A  |         | 1:49.4 |
-| 24   | 22   | Finn Jensen               | HC 10B |         | 1:50.1 |
-| 25   | 50   | Henrik Lykke-             | HC 3A  |         | 1:51.5 |
-| 26   | 500  | Henrik Lykke              | HC 8A  | 5.0     | 1:52.4 |
-| 27   | 173  | Michael Smed              | HC 5B  | 5.0     | 1:52.7 |
-| 28   | 18   | Lars Jensen               | HC 9B  |         | 1:52.8 |
-| 29   | 24   | Jan Hjersted              | HC 10B |         | 1:53.5 |
-| 30   | 87   | Søren Harritslev Andersen | HC 9B  |         | 1:53.8 |
-| 31   | 100  | Rikke Fulton Wiilsbøll    | HC 8A  |         | 1:54.4 |
-| 31   | 16   | Kim Windt Christensen     | HC 9B  |         | 1:54.4 |
-| 33   | 21   | Morten Mejdal             | HC 9B  |         | 1:56.2 |
-| 34   | 20   | Bjarne Olsen              | HC 9B  |         | 1:56.3 |
-| 35   | 84   | Poul Mandrup Christensen  | HC 4B  | 5.0     | 1:56.5 |
-| 36   | 752  | Thomas Sommer             | HC 7A  |         | 1:57.1 |
-| 37   | 888  | Jacob Emil Lassen         | HC 7A  |         | 1:59.0 |
-| 38   | 4    | Bjarne Hogrefe Nielsen    | HC 3A  |         | 1:59.6 |
-| 39   | 30   | Brian Brogaard            | HC 3A  |         | 2:01.7 |
-| 40   | 365  | Martin Sten Madsen        | HC 7A  |         | 2:03.0 |
-| 41   | 232  | Pernille Lindeberg        | HC 3A  |         | 2:04.0 |
-| 42   | 1    | Martin Christensen        | HC 6B  | 5.0     | 2:08.9 |
-| 43   | 14   | Poul-Erik Petersen        | HC 7A  |         | 2:16.8 |
-| 44   | 2    | Rene Jørgensen            | HC 1A  |         | 42:42.8 |
-| -    | 7    | Per Holm                  | HC 5B  |         | DNS    |
+| Rank | No   | Driver: Navn              | Klasse | Penalty | Time   |              |
+|------|------|---------------------------|--------|---------|--------|--------------|
+| 1    | 31   | Heino Mejer               | HC 6B  |         | 1:34.1 |              |
+| 2    | 10   | Jakob Teil Hansen         | HC 6B  |         | 1:34.9 |              |
+| 3    | 29   | Tim Svanholt              | HC 6B  |         | 1:41.1 |              |
+| 4    | 28   | Michael René Christensen  | HC 11B |         | 1:42.8 |              |
+| 5    | 8    | Kurt Mejer                | HC 6B  |         | 1:42.9 |              |
+| 6    | 19   | Bjarne Grønbæk Jensen     | HC 11B |         | 1:43.3 |              |
+| 7    | 911  | Johnny Andersen           | HC 11B |         | 1:43.5 |              |
+| 8    | 35   | Martin Vestergaard        | HC 5B  |         | 1:44.1 |              |
+| 9    | 12   | Allan Bjerg Pedersen      | HC 6B  |         | 1:44.2 |              |
+| 10   | 23   | Thomas Korgaard           | HC 10B |         | 1:44.4 |              |
+| 11   | 56   | Dennis Sørensen           | HC 9B  |         | 1:44.6 |              |
+| 11   | 11   | Jørgen Hummeluhr          | HC 10B |         | 1:44.6 |              |
+| 13   | 26   | Kasper Schønberg          | HC 10B | 5.0     | 1:44.7 |              |
+| 14   | 6    | Kenneth Jørgensen         | HC 5B  |         | 1:45.0 |              |
+| 15   | 230  | Erik Mortensen            | HC 11B |         | 1:45.3 |              |
+| 16   | 27   | Rolf Schröder             | HC 11B |         | 1:46.5 |              |
+| 17   | 15   | Christian Krogh Stender   | HC 8A  |         | 1:47.2 |              |
+| 18   | 58   | Brian Rasmussen           | HC 9B  |         | 1:48.4 |              |
+| 19   | 944  | Stiig Broby               | HC 10B |         | 1:48.6 |              |
+| 19   | 5    | Poul Pape Juel Jensen     | HC 5B  |         | 1:48.6 |              |
+| 21   | 9    | Erik Maagaard             | HC 6B  |         | 1:48.9 |              |
+| 22   | 85   | Mark Skarsfeldt           | HC 8A  |         | 1:49.0 |              |
+| 23   | 571  | Jacob Fjord Nielsen       | HC 8A  |         | 1:49.4 |              |
+| 24   | 22   | Finn Jensen               | HC 10B |         | 1:50.1 |              |
+| 25   | 50   | Henrik Lykke-             | HC 3A  |         | 1:51.5 |              |
+| 26   | 500  | Henrik Lykke              | HC 8A  | 5.0     | 1:52.4 |              |
+| 27   | 173  | Michael Smed              | HC 5B  | 5.0     | 1:52.7 |              |
+| 28   | 18   | Lars Jensen               | HC 9B  |         | 1:52.8 |              |
+| 29   | 24   | Jan Hjersted              | HC 10B |         | 1:53.5 |              |
+| 30   | 87   | Søren Harritslev Andersen | HC 9B  |         | 1:53.8 |              |
+| 31   | 100  | Rikke Fulton Wiilsbøll    | HC 8A  |         | 1:54.4 |              |
+| 31   | 16   | Kim Windt Christensen     | HC 9B  |         | 1:54.4 |              |
+| 33   | 21   | Morten Mejdal             | HC 9B  |         | 1:56.2 |              |
+| 34   | 20   | Bjarne Olsen              | HC 9B  |         | 1:56.3 |              |
+| 35   | 84   | Poul Mandrup Christensen  | HC 4B  | 5.0     | 1:56.5 |              |
+| 36   | 752  | Thomas Sommer             | HC 7A  |         | 1:57.1 |              |
+| 37   | 888  | Jacob Emil Lassen         | HC 7A  |         | 1:59.0 |              |
+| 38   | 4    | Bjarne Hogrefe Nielsen    | HC 3A  |         | 1:59.6 |              |
+| 39   | 30   | Brian Brogaard            | HC 3A  |         | 2:01.7 |              |
+| 40   | 365  | Martin Sten Madsen        | HC 7A  |         | 2:03.0 |              |
+| 41   | 232  | Pernille Lindeberg        | HC 3A  |         | 2:04.0 |              |
+| 42   | 1    | Martin Christensen        | HC 6B  | 5.0     | 2:08.9 |              |
+| 43   | 14   | Poul-Erik Petersen        | HC 7A  |         | 2:16.8 |              |
+| 44   | 2    | Rene Jørgensen            | HC 1A  |         | 42:42.8|              |
+| -    | 7    | Per Holm                  | HC 5B  |         |        | DNS          |
 
 ## Heat 3
 

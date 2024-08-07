@@ -12,253 +12,251 @@ Results from the Sjællands Hill Climb saturday 2024-05-26 near Viby J. Results 
 
 ## Qualifying 1
 
-| Rank | No   | Driver: Name              | Class  | Penalty | Time   |
-|------|------|---------------------------|--------|---------|--------|
-| 1    | 31   | Heino Mejer               | 6      |         | 1:58.8 |
-| 2    | 10   | Jakob Teil Hansen         | 6      |         | 2:04.6 |
-| 3    | 8    | Kurt Mejer                | 6      |         | 2:06.1 |
-| 4    | 911  | Johnny Andersen           | 11     |         | 2:07.7 |
-| 5    | 12   | Allan Bjerg Pedersen      | 6      |         | 2:09.2 |
-| 6    | 44   | Erling Hansen             | 6      |         | 2:09.5 |
-| 7    | 11   | Jørgen Hummeluhr          | 10     |         | 2:11.2 |
-| 8    | 45   | Søren Johan Tangaa        | 6      |         | 2:11.6 |
-| 9    | 944  | Stiig Broby               | 10     |         | 2:11.7 |
-| 10   | 5    | Poul Pape Juel Jensen     | 5      |         | 2:12.1 |
-| 11   | 27   | Rolf Schröder             | 11     |         | 2:12.4 |
-| 12   | 94   | Kim Møller-Andersen       | 6      |         | 2:12.5 |
-| 13   | 6    | Kenneth Jørgensen         | 5      |         | 2:13.4 |
-| 14   | 47   | Kim Larsen                | 10     |         | 2:13.8 |
-| 15   | 43   | Toni Hansen               | 5      |         | 2:14.3 |
-| 15   | 42   | Troels Lund               | 5      |         | 2:14.3 |
-| 15   | 24   | Jan Hjersted              | 10     |         | 2:14.3 |
-| 18   | 571  | Jacob Fjord Nielsen       | 8      |         | 2:15.9 |
-| 19   | 1    | Martin Christensen        | 6      |         | 2:16.6 |
-| 20   | 15   | Christian Krogh Stender   | 8      |         | 2:17.6 |
-| 21   | 888  | Jacob Emil Lassen         | 7      |         | 2:18.3 |
-| 22   | 58   | Brian Rasmussen           | 9      |         | 2:18.7 |
-| 23   | 56   | Dennis Sørensen           | 9      |         | 2:19.3 |
-| 24   | 173  | Michael Smed              | 5      |         | 2:19.4 |
-| 25   | 16   | Kim Windt Christensen     | 9      |         | 2:19.5 |
-| 26   | 50   | Henrik Lykke-             | 3      |         | 2:20.6 |
-| 26   | 41   | Kim Kjærsgaard Frandsen   | 3      |         | 2:20.6 |
-| 28   | 87   | Søren Harritslev Andersen | 9      |         | 2:21.0 |
-| 29   | 752  | Thomas Sommer             | 7      |         | 2:21.2 |
-| 30   | 40   | Christen Larsen           | 3      |         | 2:22.1 |
-| 31   | 85   | Mark Skarsfeldt           | 8      |         | 2:24.1 |
-| 32   | 100  | Rikke Fulton Wiilsbøll    | 8      |         | 2:29.2 |
-| 33   | 9    | Erik Maagaard             | 6      | 10.0    | 2:30.1 |
-| 34   | 30   | Brian Brogaard            | 3      |         | 2:31.5 |
-| 35   | 84   | Poul Mandrup Christensen  | 4      |         | 2:33.7 |
-| 36   | 232  | Pernille Lindeberg        | 3      |         | 2:33.8 |
-| 37   | 500  | Henrik Lykke              | 8      |         | 2:36.3 |
-| 38   | 365  | Martin Sten Madsen        | 7      |         | 2:36.9 |
-| 39   | 46   | Benny Rasmussen           | 6      |         | 2:37.4 |
-| 40   | 14   | Poul-Erik Petersen        | 7      |         | 2:39.3 |
-| 41   | 28   | Michael René Christensen  | 11     |         | 2:42.8 |
-| 42   | 2    | Rene Jørgensen            | 1      |         | 2:44.9 |
-| 43   | 35   | Martin Vestergaard        | 5      |         | 2:48.7 |
-| -    | 3    | Lene Aastrøm Hansen       | 2      |         | DNS    |
-| -    | 7    | Per Holm                  | 5      |         | DNS    |
-| -    | 230  | Erik Mortensen            | 11     |         | DNS    |
+| Rank | No   | Driver: Name              | Class | Penalty | Time   |              |
+|------|------|---------------------------|-------|---------|--------|--------------|
+| 1    | 31   | Heino Mejer               | 6     |         | 1:58.8 |              |
+| 2    | 10   | Jakob Teil Hansen         | 6     |         | 2:04.6 |              |
+| 3    | 8    | Kurt Mejer                | 6     |         | 2:06.1 |              |
+| 4    | 911  | Johnny Andersen           | 11    |         | 2:07.7 |              |
+| 5    | 12   | Allan Bjerg Pedersen      | 6     |         | 2:09.2 |              |
+| 6    | 44   | Erling Hansen             | 6     |         | 2:09.5 |              |
+| 7    | 11   | Jørgen Hummeluhr          | 10    |         | 2:11.2 |              |
+| 8    | 45   | Søren Johan Tangaa        | 6     |         | 2:11.6 |              |
+| 9    | 944  | Stiig Broby               | 10    |         | 2:11.7 |              |
+| 10   | 5    | Poul Pape Juel Jensen     | 5     |         | 2:12.1 |              |
+| 11   | 27   | Rolf Schröder             | 11    |         | 2:12.4 |              |
+| 12   | 94   | Kim Møller-Andersen       | 6     |         | 2:12.5 |              |
+| 13   | 6    | Kenneth Jørgensen         | 5     |         | 2:13.4 |              |
+| 14   | 47   | Kim Larsen                | 10    |         | 2:13.8 |              |
+| 15   | 43   | Toni Hansen               | 5     |         | 2:14.3 |              |
+| 15   | 42   | Troels Lund               | 5     |         | 2:14.3 |              |
+| 15   | 24   | Jan Hjersted              | 10    |         | 2:14.3 |              |
+| 18   | 571  | Jacob Fjord Nielsen       | 8     |         | 2:15.9 |              |
+| 19   | 1    | Martin Christensen        | 6     |         | 2:16.6 |              |
+| 20   | 15   | Christian Krogh Stender   | 8     |         | 2:17.6 |              |
+| 21   | 888  | Jacob Emil Lassen         | 7     |         | 2:18.3 |              |
+| 22   | 58   | Brian Rasmussen           | 9     |         | 2:18.7 |              |
+| 23   | 56   | Dennis Sørensen           | 9     |         | 2:19.3 |              |
+| 24   | 173  | Michael Smed              | 5     |         | 2:19.4 |              |
+| 25   | 16   | Kim Windt Christensen     | 9     |         | 2:19.5 |              |
+| 26   | 50   | Henrik Lykke-             | 3     |         | 2:20.6 |              |
+| 26   | 41   | Kim Kjærsgaard Frandsen   | 3     |         | 2:20.6 |              |
+| 28   | 87   | Søren Harritslev Andersen | 9     |         | 2:21.0 |              |
+| 29   | 752  | Thomas Sommer             | 7     |         | 2:21.2 |              |
+| 30   | 40   | Christen Larsen           | 3     |         | 2:22.1 |              |
+| 31   | 85   | Mark Skarsfeldt           | 8     |         | 2:24.1 |              |
+| 32   | 100  | Rikke Fulton Wiilsbøll    | 8     |         | 2:29.2 |              |
+| 33   | 9    | Erik Maagaard             | 6     | 10.0    | 2:30.1 |              |
+| 34   | 30   | Brian Brogaard            | 3     |         | 2:31.5 |              |
+| 35   | 84   | Poul Mandrup Christensen  | 4     |         | 2:33.7 |              |
+| 36   | 232  | Pernille Lindeberg        | 3     |         | 2:33.8 |              |
+| 37   | 500  | Henrik Lykke              | 8     |         | 2:36.3 |              |
+| 38   | 365  | Martin Sten Madsen        | 7     |         | 2:36.9 |              |
+| 39   | 46   | Benny Rasmussen           | 6     |         | 2:37.4 |              |
+| 40   | 14   | Poul-Erik Petersen        | 7     |         | 2:39.3 |              |
+| 41   | 28   | Michael René Christensen  | 11    |         | 2:42.8 |              |
+| 42   | 2    | Rene Jørgensen            | 1     |         | 2:44.9 |              |
+| 43   | 35   | Martin Vestergaard        | 5     |         | 2:48.7 |              |
+| -    | 3    | Lene Aastrøm Hansen       | 2     |         |        | DNS          |
+| -    | 7    | Per Holm                  | 5     |         |        | DNS          |
+| -    | 230  | Erik Mortensen            | 11    |         |        | DNS          |
 
 
 ## Qualifying 2
 
-| Rank | No   | Driver: Name              | Class  | Penalty | Time   |
-|------|------|---------------------------|--------|---------|--------|
-| 1    | 31   | Heino Mejer               | 6      |         | 1:56.3 |
-| 2    | 10   | Jakob Teil Hansen         | 6      |         | 1:59.3 |
-| 3    | 8    | Kurt Mejer                | 6      |         | 2:04.2 |
-| 4    | 911  | Johnny Andersen           | 11     |         | 2:04.8 |
-| 5    | 12   | Allan Bjerg Pedersen      | 6      |         | 2:05.0 |
-| 6    | 44   | Erling Hansen             | 6      |         | 2:07.1 |
-| 7    | 11   | Jørgen Hummeluhr          | 10     |         | 2:07.5 |
-| 8    | 94   | Kim Møller-Andersen       | 6      |         | 2:08.0 |
-| 9    | 6    | Kenneth Jørgensen         | 5      |         | 2:08.6 |
-| 10   | 45   | Søren Johan Tangaa        | 6      |         | 2:08.9 |
-| 11   | 944  | Stiig Broby               | 10     |         | 2:09.0 |
-| 12   | 27   | Rolf Schröder             | 11     |         | 2:09.7 |
-| 13   | 35   | Martin Vestergaard        | 5      |         | 2:10.2 |
-| 14   | 5    | Poul Pape Juel Jensen     | 5      |         | 2:11.5 |
-| 15   | 500  | Henrik Lykke              | 8      |         | 2:11.6 |
-| 16   | 50   | Henrik Lykke-             | 3      |         | 2:12.1 |
-| 17   | 15   | Christian Krogh Stender   | 8      |         | 2:12.2 |
-| 18   | 43   | Toni Hansen               | 5      |         | 2:12.9 |
-| 19   | 24   | Jan Hjersted              | 10     |         | 2:13.3 |
-| 20   | 56   | Dennis Sørensen           | 9      |         | 2:13.6 |
-| 21   | 9    | Erik Maagaard             | 6      |         | 2:14.2 |
-| 22   | 571  | Jacob Fjord Nielsen       | 8      |         | 2:14.6 |
-| 23   | 58   | Brian Rasmussen           | 9      |         | 2:16.2 |
-| 24   | 173  | Michael Smed              | 5      |         | 2:17.4 |
-| 24   | 16   | Kim Windt Christensen     | 9      |         | 2:17.4 |
-| 26   | 42   | Troels Lund               | 5      |         | 2:18.2 |
-| 27   | 752  | Thomas Sommer             | 7      |         | 2:18.7 |
-| 28   | 41   | Kim Kjærsgaard Frandsen   | 3      |         | 2:19.6 |
-| 29   | 100  | Rikke Fulton Wiilsbøll    | 8      |         | 2:19.7 |
-| 29   | 40   | Christen Larsen           | 3      |         | 2:19.7 |
-| 31   | 85   | Mark Skarsfeldt           | 8      |         | 2:21.4 |
-| 32   | 46   | Benny Rasmussen           | 6      |         | 2:22.9 |
-| 33   | 30   | Brian Brogaard            | 3      |         | 2:24.2 |
-| 34   | 47   | Kim Larsen                | 10     | 5.0     | 2:24.8 |
-| 35   | 84   | Poul Mandrup Christensen  | 4      |         | 2:25.7 |
-| 36   | 232  | Pernille Lindeberg        | 3      |         | 2:28.1 |
-| 37   | 365  | Martin Sten Madsen        | 7      |         | 2:34.2 |
-| 38   | 2    | Rene Jørgensen            | 1      |         | 2:37.1 |
-| 39   | 14   | Poul-Erik Petersen        | 7      |         | 2:37.5 |
-| 40   | 87   | Søren Harritslev Andersen | 9      |         | 2:41.7 |
-| -    | 1    | Martin Christensen        | 6      |         | DNS    |
-| -    | 28   | Michael René Christensen  | 11     |         | DNS    |
-| -    | 888  | Jacob Emil Lassen         | 7      |         | DNS    |
-
-
+| Rank | No   | Driver: Name              | Class | Penalty | Time   |              |
+|------|------|---------------------------|-------|---------|--------|--------------|
+| 1    | 31   | Heino Mejer               | 6     |         | 1:56.3 |              |
+| 2    | 10   | Jakob Teil Hansen         | 6     |         | 1:59.3 |              |
+| 3    | 8    | Kurt Mejer                | 6     |         | 2:04.2 |              |
+| 4    | 911  | Johnny Andersen           | 11    |         | 2:04.8 |              |
+| 5    | 12   | Allan Bjerg Pedersen      | 6     |         | 2:05.0 |              |
+| 6    | 44   | Erling Hansen             | 6     |         | 2:07.1 |              |
+| 7    | 11   | Jørgen Hummeluhr          | 10    |         | 2:07.5 |              |
+| 8    | 94   | Kim Møller-Andersen       | 6     |         | 2:08.0 |              |
+| 9    | 6    | Kenneth Jørgensen         | 5     |         | 2:08.6 |              |
+| 10   | 45   | Søren Johan Tangaa        | 6     |         | 2:08.9 |              |
+| 11   | 944  | Stiig Broby               | 10    |         | 2:09.0 |              |
+| 12   | 27   | Rolf Schröder             | 11    |         | 2:09.7 |              |
+| 13   | 35   | Martin Vestergaard        | 5     |         | 2:10.2 |              |
+| 14   | 5    | Poul Pape Juel Jensen     | 5     |         | 2:11.5 |              |
+| 15   | 500  | Henrik Lykke              | 8     |         | 2:11.6 |              |
+| 16   | 50   | Henrik Lykke-             | 3     |         | 2:12.1 |              |
+| 17   | 15   | Christian Krogh Stender   | 8     |         | 2:12.2 |              |
+| 18   | 43   | Toni Hansen               | 5     |         | 2:12.9 |              |
+| 19   | 24   | Jan Hjersted              | 10    |         | 2:13.3 |              |
+| 20   | 56   | Dennis Sørensen           | 9     |         | 2:13.6 |              |
+| 21   | 9    | Erik Maagaard             | 6     |         | 2:14.2 |              |
+| 22   | 571  | Jacob Fjord Nielsen       | 8     |         | 2:14.6 |              |
+| 23   | 58   | Brian Rasmussen           | 9     |         | 2:16.2 |              |
+| 24   | 173  | Michael Smed              | 5     |         | 2:17.4 |              |
+| 24   | 16   | Kim Windt Christensen     | 9     |         | 2:17.4 |              |
+| 26   | 42   | Troels Lund               | 5     |         | 2:18.2 |              |
+| 27   | 752  | Thomas Sommer             | 7     |         | 2:18.7 |              |
+| 28   | 41   | Kim Kjærsgaard Frandsen   | 3     |         | 2:19.6 |              |
+| 29   | 100  | Rikke Fulton Wiilsbøll    | 8     |         | 2:19.7 |              |
+| 29   | 40   | Christen Larsen           | 3     |         | 2:19.7 |              |
+| 31   | 85   | Mark Skarsfeldt           | 8     |         | 2:21.4 |              |
+| 32   | 46   | Benny Rasmussen           | 6     |         | 2:22.9 |              |
+| 33   | 30   | Brian Brogaard            | 3     |         | 2:24.2 |              |
+| 34   | 47   | Kim Larsen                | 10    | 5.0     | 2:24.8 |              |
+| 35   | 84   | Poul Mandrup Christensen  | 4     |         | 2:25.7 |              |
+| 36   | 232  | Pernille Lindeberg        | 3     |         | 2:28.1 |              |
+| 37   | 365  | Martin Sten Madsen        | 7     |         | 2:34.2 |              |
+| 38   | 2    | Rene Jørgensen            | 1     |         | 2:37.1 |              |
+| 39   | 14   | Poul-Erik Petersen        | 7     |         | 2:37.5 |              |
+| 40   | 87   | Søren Harritslev Andersen | 9     |         | 2:41.7 |              |
+| -    | 1    | Martin Christensen        | 6     |         |        | DNS          |
+| -    | 28   | Michael René Christensen  | 11    |         |        | DNS          |
+| -    | 888  | Jacob Emil Lassen         | 7     |         |        | DNS          |
 
 ## Heat 1
 
-| Rank | No   | Driver: Name              | Class  | Penalty | Time   |
-|------|------|---------------------------|--------|---------|--------|
-| 1    | 31   | Heino Mejer               | 6      |         | 1:55.1 |
-| 2    | 10   | Jakob Teil Hansen         | 6      |         | 1:59.0 |
-| 3    | 12   | Allan Bjerg Pedersen      | 6      |         | 2:05.4 |
-| 4    | 94   | Kim Møller-Andersen       | 6      |         | 2:05.6 |
-| 5    | 911  | Johnny Andersen           | 11     |         | 2:05.9 |
-| 6    | 45   | Søren Johan Tangaa        | 6      |         | 2:06.2 |
-| 7    | 11   | Jørgen Hummeluhr          | 10     |         | 2:07.2 |
-| 8    | 44   | Erling Hansen             | 6      |         | 2:07.6 |
-| 9    | 6    | Kenneth Jørgensen         | 5      |         | 2:07.7 |
-| 10   | 35   | Martin Vestergaard        | 5      |         | 2:08.5 |
-| 11   | 944  | Stiig Broby               | 10     |         | 2:08.6 |
-| 12   | 500  | Henrik Lykke              | 8      |         | 2:08.7 |
-| 13   | 8    | Kurt Mejer                | 6      |         | 2:08.8 |
-| 14   | 5    | Poul Pape Juel Jensen     | 5      |         | 2:09.0 |
-| 15   | 27   | Rolf Schröder             | 11     |         | 2:09.5 |
-| 16   | 56   | Dennis Sørensen           | 9      |         | 2:10.1 |
-| 17   | 43   | Toni Hansen               | 5      |         | 2:10.4 |
-| 18   | 15   | Christian Krogh Stender   | 8      |         | 2:10.5 |
-| 19   | 28   | Michael René Christensen  | 11     |         | 2:11.5 |
-| 19   | 24   | Jan Hjersted              | 10     |         | 2:11.5 |
-| 21   | 9    | Erik Maagaard             | 6      |         | 2:12.9 |
-| 22   | 230  | Erik Mortensen            | 11     |         | 2:13.0 |
-| 23   | 47   | Kim Larsen                | 10     |         | 2:13.4 |
-| 24   | 46   | Benny Rasmussen           | 6      |         | 2:14.6 |
-| 25   | 571  | Jacob Fjord Nielsen       | 8      |         | 2:15.2 |
-| 26   | 41   | Kim Kjærsgaard Frandsen   | 3      |         | 2:16.3 |
-| 27   | 58   | Brian Rasmussen           | 9      |         | 2:17.0 |
-| 28   | 42   | Troels Lund               | 5      |         | 2:17.3 |
-| 29   | 16   | Kim Windt Christensen     | 9      |         | 2:17.4 |
-| 30   | 888  | Jacob Emil Lassen         | 7      |         | 2:17.5 |
-| 31   | 1    | Martin Christensen        | 6      |         | 2:18.3 |
-| 32   | 173  | Michael Smed              | 5      |         | 2:18.4 |
-| 33   | 752  | Thomas Sommer             | 7      |         | 2:18.6 |
-| 34   | 40   | Christen Larsen           | 3      |         | 2:18.8 |
-| 35   | 85   | Mark Skarsfeldt           | 8      |         | 2:19.4 |
-| 36   | 100  | Rikke Fulton Wiilsbøll    | 8      |         | 2:22.1 |
-| 37   | 87   | Søren Harritslev Andersen | 9      |         | 2:22.4 |
-| 38   | 232  | Pernille Lindeberg        | 3      |         | 2:24.8 |
-| 39   | 84   | Poul Mandrup Christensen  | 4      |         | 2:25.9 |
-| 40   | 30   | Brian Brogaard            | 3      |         | 2:29.7 |
-| 41   | 365  | Martin Sten Madsen        | 7      |         | 2:31.0 |
-| 42   | 2    | Rene Jørgensen            | 1      |         | 2:33.2 |
-| 43   | 14   | Poul-Erik Petersen        | 7      |         | 2:38.8 |
-| 44   | 50   | Henrik Lykke-             | 3      | 5:00.0  | DNS    |
-| -    | 3    | Lene Aastrøm Hansen       | 2      |         | DNS    |
-| -    | 7    | Per Holm                  | 5      |         | DNS    |
+| Rank | No   | Driver: Name              | Class | Penalty | Time   |              |
+|------|------|---------------------------|-------|---------|--------|--------------|
+| 1    | 31   | Heino Mejer               | 6     |         | 1:55.1 |              |
+| 2    | 10   | Jakob Teil Hansen         | 6     |         | 1:59.0 |              |
+| 3    | 12   | Allan Bjerg Pedersen      | 6     |         | 2:05.4 |              |
+| 4    | 94   | Kim Møller-Andersen       | 6     |         | 2:05.6 |              |
+| 5    | 911  | Johnny Andersen           | 11    |         | 2:05.9 |              |
+| 6    | 45   | Søren Johan Tangaa        | 6     |         | 2:06.2 |              |
+| 7    | 11   | Jørgen Hummeluhr          | 10    |         | 2:07.2 |              |
+| 8    | 44   | Erling Hansen             | 6     |         | 2:07.6 |              |
+| 9    | 6    | Kenneth Jørgensen         | 5     |         | 2:07.7 |              |
+| 10   | 35   | Martin Vestergaard        | 5     |         | 2:08.5 |              |
+| 11   | 944  | Stiig Broby               | 10    |         | 2:08.6 |              |
+| 12   | 500  | Henrik Lykke              | 8     |         | 2:08.7 |              |
+| 13   | 8    | Kurt Mejer                | 6     |         | 2:08.8 |              |
+| 14   | 5    | Poul Pape Juel Jensen     | 5     |         | 2:09.0 |              |
+| 15   | 27   | Rolf Schröder             | 11    |         | 2:09.5 |              |
+| 16   | 56   | Dennis Sørensen           | 9     |         | 2:10.1 |              |
+| 17   | 43   | Toni Hansen               | 5     |         | 2:10.4 |              |
+| 18   | 15   | Christian Krogh Stender   | 8     |         | 2:10.5 |              |
+| 19   | 28   | Michael René Christensen  | 11    |         | 2:11.5 |              |
+| 19   | 24   | Jan Hjersted              | 10    |         | 2:11.5 |              |
+| 21   | 9    | Erik Maagaard             | 6     |         | 2:12.9 |              |
+| 22   | 230  | Erik Mortensen            | 11    |         | 2:13.0 |              |
+| 23   | 47   | Kim Larsen                | 10    |         | 2:13.4 |              |
+| 24   | 46   | Benny Rasmussen           | 6     |         | 2:14.6 |              |
+| 25   | 571  | Jacob Fjord Nielsen       | 8     |         | 2:15.2 |              |
+| 26   | 41   | Kim Kjærsgaard Frandsen   | 3     |         | 2:16.3 |              |
+| 27   | 58   | Brian Rasmussen           | 9     |         | 2:17.0 |              |
+| 28   | 42   | Troels Lund               | 5     |         | 2:17.3 |              |
+| 29   | 16   | Kim Windt Christensen     | 9     |         | 2:17.4 |              |
+| 30   | 888  | Jacob Emil Lassen         | 7     |         | 2:17.5 |              |
+| 31   | 1    | Martin Christensen        | 6     |         | 2:18.3 |              |
+| 32   | 173  | Michael Smed              | 5     |         | 2:18.4 |              |
+| 33   | 752  | Thomas Sommer             | 7     |         | 2:18.6 |              |
+| 34   | 40   | Christen Larsen           | 3     |         | 2:18.8 |              |
+| 35   | 85   | Mark Skarsfeldt           | 8     |         | 2:19.4 |              |
+| 36   | 100  | Rikke Fulton Wiilsbøll    | 8     |         | 2:22.1 |              |
+| 37   | 87   | Søren Harritslev Andersen | 9     |         | 2:22.4 |              |
+| 38   | 232  | Pernille Lindeberg        | 3     |         | 2:24.8 |              |
+| 39   | 84   | Poul Mandrup Christensen  | 4     |         | 2:25.9 |              |
+| 40   | 30   | Brian Brogaard            | 3     |         | 2:29.7 |              |
+| 41   | 365  | Martin Sten Madsen        | 7     |         | 2:31.0 |              |
+| 42   | 2    | Rene Jørgensen            | 1     |         | 2:33.2 |              |
+| 43   | 14   | Poul-Erik Petersen        | 7     |         | 2:38.8 |              |
+| 44   | 50   | Henrik Lykke-             | 3     |         | 5:00.0 |              |
+| -    | 3    | Lene Aastrøm Hansen       | 2     |         |        | DNS          |
+| -    | 7    | Per Holm                  | 5     |         |        | DNS          |
 
 ## Heat 2
 
-| Rank | No   | Driver: Name              | Class  | Penalty | Time   |
-|------|------|---------------------------|--------|---------|--------|
-| 1    | 31   | Heino Mejer               | 6      |         | 1:55.9 |
-| 2    | 10   | Jakob Teil Hansen         | 6      |         | 1:56.9 |
-| 3    | 12   | Allan Bjerg Pedersen      | 6      |         | 2:03.6 |
-| 4    | 911  | Johnny Andersen           | 11     |         | 2:04.3 |
-| 5    | 44   | Erling Hansen             | 6      |         | 2:06.2 |
-| 6    | 11   | Jørgen Hummeluhr          | 10     |         | 2:06.4 |
-| 7    | 8    | Kurt Mejer                | 6      |         | 2:07.3 |
-| 8    | 45   | Søren Johan Tangaa        | 6      |         | 2:07.4 |
-| 9    | 6    | Kenneth Jørgensen         | 5      |         | 2:07.6 |
-| 10   | 35   | Martin Vestergaard        | 5      |         | 2:07.8 |
-| 11   | 94   | Kim Møller-Andersen       | 6      |         | 2:07.9 |
-| 12   | 500  | Henrik Lykke              | 8      |         | 2:09.1 |
-| 13   | 9    | Erik Maagaard             | 6      |         | 2:09.8 |
-| 14   | 1    | Martin Christensen        | 6      |         | 2:10.0 |
-| 15   | 27   | Rolf Schröder             | 11     |         | 2:10.6 |
-| 16   | 944  | Stiig Broby               | 10     |         | 2:10.8 |
-| 17   | 58   | Brian Rasmussen           | 9      |         | 2:11.0 |
-| 18   | 56   | Dennis Sørensen           | 9      |         | 2:11.7 |
-| 19   | 5    | Poul Pape Juel Jensen     | 5      |         | 2:12.3 |
-| 20   | 24   | Jan Hjersted              | 10     |         | 2:12.4 |
-| 21   | 43   | Toni Hansen               | 5      |         | 2:12.5 |
-| 22   | 47   | Kim Larsen                | 10     |         | 2:13.3 |
-| 22   | 46   | Benny Rasmussen           | 6      |         | 2:13.3 |
-| 24   | 230  | Erik Mortensen            | 11     |         | 2:14.0 |
-| 25   | 16   | Kim Windt Christensen     | 9      |         | 2:14.5 |
-| 26   | 571  | Jacob Fjord Nielsen       | 8      |         | 2:16.0 |
-| 27   | 173  | Michael Smed              | 5      |         | 2:16.4 |
-| 28   | 752  | Thomas Sommer             | 7      |         | 2:17.4 |
-| 29   | 100  | Rikke Fulton Wiilsbøll    | 8      |         | 2:18.0 |
-| 29   | 42   | Troels Lund               | 5      |         | 2:18.0 |
-| 31   | 41   | Kim Kjærsgaard Frandsen   | 3      |         | 2:19.3 |
-| 32   | 87   | Søren Harritslev Andersen | 9      |         | 2:20.6 |
-| 33   | 85   | Mark Skarsfeldt           | 8      |         | 2:21.4 |
-| 34   | 40   | Christen Larsen           | 3      |         | 2:22.1 |
-| 35   | 84   | Poul Mandrup Christensen  | 4      |         | 2:24.7 |
-| 36   | 30   | Brian Brogaard            | 3      |         | 2:26.3 |
-| 37   | 232  | Pernille Lindeberg        | 3      |         | 2:27.0 |
-| 38   | 365  | Martin Sten Madsen        | 7      |         | 2:29.7 |
-| 39   | 2    | Rene Jørgensen            | 1      |         | 2:32.8 |
-| 40   | 14   | Poul-Erik Petersen        | 7      |         | 2:38.3 |
-| 41   | 28   | Michael René Christensen  | 11     |         | 2:38.5 |
-| 42   | 888  | Jacob Emil Lassen         | 7      |         | 5:00.0 |
-| 42   | 15   | Christian Krogh Stender   | 8      |         | 5:00.0 |
-| -    | 50   | Henrik Lykke-             | 3      |         | DNS    |
+| Rank | No   | Driver: Name              | Class | Penalty | Time   |              |
+|------|------|---------------------------|-------|---------|--------|--------------|
+| 1    | 31   | Heino Mejer               | 6     |         | 1:55.9 |              |
+| 2    | 10   | Jakob Teil Hansen         | 6     |         | 1:56.9 |              |
+| 3    | 12   | Allan Bjerg Pedersen      | 6     |         | 2:03.6 |              |
+| 4    | 911  | Johnny Andersen           | 11    |         | 2:04.3 |              |
+| 5    | 44   | Erling Hansen             | 6     |         | 2:06.2 |              |
+| 6    | 11   | Jørgen Hummeluhr          | 10    |         | 2:06.4 |              |
+| 7    | 8    | Kurt Mejer                | 6     |         | 2:07.3 |              |
+| 8    | 45   | Søren Johan Tangaa        | 6     |         | 2:07.4 |              |
+| 9    | 6    | Kenneth Jørgensen         | 5     |         | 2:07.6 |              |
+| 10   | 35   | Martin Vestergaard        | 5     |         | 2:07.8 |              |
+| 11   | 94   | Kim Møller-Andersen       | 6     |         | 2:07.9 |              |
+| 12   | 500  | Henrik Lykke              | 8     |         | 2:09.1 |              |
+| 13   | 9    | Erik Maagaard             | 6     |         | 2:09.8 |              |
+| 14   | 1    | Martin Christensen        | 6     |         | 2:10.0 |              |
+| 15   | 27   | Rolf Schröder             | 11    |         | 2:10.6 |              |
+| 16   | 944  | Stiig Broby               | 10    |         | 2:10.8 |              |
+| 17   | 58   | Brian Rasmussen           | 9     |         | 2:11.0 |              |
+| 18   | 56   | Dennis Sørensen           | 9     |         | 2:11.7 |              |
+| 19   | 5    | Poul Pape Juel Jensen     | 5     |         | 2:12.3 |              |
+| 20   | 24   | Jan Hjersted              | 10    |         | 2:12.4 |              |
+| 21   | 43   | Toni Hansen               | 5     |         | 2:12.5 |              |
+| 22   | 47   | Kim Larsen                | 10    |         | 2:13.3 |              |
+| 22   | 46   | Benny Rasmussen           | 6     |         | 2:13.3 |              |
+| 24   | 230  | Erik Mortensen            | 11    |         | 2:14.0 |              |
+| 25   | 16   | Kim Windt Christensen     | 9     |         | 2:14.5 |              |
+| 26   | 571  | Jacob Fjord Nielsen       | 8     |         | 2:16.0 |              |
+| 27   | 173  | Michael Smed              | 5     |         | 2:16.4 |              |
+| 28   | 752  | Thomas Sommer             | 7     |         | 2:17.4 |              |
+| 29   | 100  | Rikke Fulton Wiilsbøll    | 8     |         | 2:18.0 |              |
+| 29   | 42   | Troels Lund               | 5     |         | 2:18.0 |              |
+| 31   | 41   | Kim Kjærsgaard Frandsen   | 3     |         | 2:19.3 |              |
+| 32   | 87   | Søren Harritslev Andersen | 9     |         | 2:20.6 |              |
+| 33   | 85   | Mark Skarsfeldt           | 8     |         | 2:21.4 |              |
+| 34   | 40   | Christen Larsen           | 3     |         | 2:22.1 |              |
+| 35   | 84   | Poul Mandrup Christensen  | 4     |         | 2:24.7 |              |
+| 36   | 30   | Brian Brogaard            | 3     |         | 2:26.3 |              |
+| 37   | 232  | Pernille Lindeberg        | 3     |         | 2:27.0 |              |
+| 38   | 365  | Martin Sten Madsen        | 7     |         | 2:29.7 |              |
+| 39   | 2    | Rene Jørgensen            | 1     |         | 2:32.8 |              |
+| 40   | 14   | Poul-Erik Petersen        | 7     |         | 2:38.3 |              |
+| 41   | 28   | Michael René Christensen  | 11    |         | 2:38.5 |              |
+| 42   | 888  | Jacob Emil Lassen         | 7     |         | 5:00.0 |              |
+| 42   | 15   | Christian Krogh Stender   | 8     |         | 5:00.0 |              |
+| -    | 50   | Henrik Lykke-             | 3     |         |        | DNS          |
 
 ## Heat 3
 
-| Rank | No   | Driver: Name              | Class  | Penalty | Time   |
-|------|------|---------------------------|--------|---------|--------|
-| 1    | 31   | Heino Mejer               | 6      |         | 1:54.9 |
-| 2    | 10   | Jakob Teil Hansen         | 6      |         | 1:56.3 |
-| 3    | 12   | Allan Bjerg Pedersen      | 6      |         | 2:03.9 |
-| 4    | 94   | Kim Møller-Andersen       | 6      |         | 2:04.9 |
-| 4    | 44   | Erling Hansen             | 6      |         | 2:04.9 |
-| 6    | 911  | Johnny Andersen           | 11     |         | 2:05.0 |
-| 7    | 45   | Søren Johan Tangaa        | 6      |         | 2:06.1 |
-| 8    | 35   | Martin Vestergaard        | 5      |         | 2:06.3 |
-| 9    | 11   | Jørgen Hummeluhr          | 10     |         | 2:07.0 |
-| 10   | 8    | Kurt Mejer                | 6      |         | 2:07.3 |
-| 11   | 230  | Erik Mortensen            | 11     |         | 2:09.3 |
-| 12   | 56   | Dennis Sørensen           | 9      |         | 2:09.5 |
-| 13   | 1    | Martin Christensen        | 6      |         | 2:10.3 |
-| 14   | 5    | Poul Pape Juel Jensen     | 5      |         | 2:10.4 |
-| 15   | 500  | Henrik Lykke              | 8      |         | 2:11.0 |
-| 16   | 27   | Rolf Schröder             | 11     |         | 2:11.2 |
-| 17   | 24   | Jan Hjersted              | 10     |         | 2:11.3 |
-| 18   | 9    | Erik Maagaard             | 6      |         | 2:11.4 |
-| 19   | 944  | Stiig Broby               | 10     |         | 2:11.9 |
-| 19   | 43   | Toni Hansen               | 5      |         | 2:11.9 |
-| 21   | 6    | Kenneth Jørgensen         | 5      |         | 2:12.1 |
-| 22   | 58   | Brian Rasmussen           | 9      |         | 2:12.2 |
-| 23   | 47   | Kim Larsen                | 10     |         | 2:13.5 |
-| 24   | 46   | Benny Rasmussen           | 6      |         | 2:14.4 |
-| 25   | 16   | Kim Windt Christensen     | 9      |         | 2:15.4 |
-| 25   | 15   | Christian Krogh Stender   | 8      |         | 2:15.4 |
-| 27   | 85   | Mark Skarsfeldt           | 8      |         | 2:15.6 |
-| 27   | 41   | Kim Kjærsgaard Frandsen   | 3      |         | 2:15.6 |
-| 29   | 571  | Jacob Fjord Nielsen       | 8      |         | 2:16.7 |
-| 30   | 173  | Michael Smed              | 5      |         | 2:17.5 |
-| 31   | 100  | Rikke Fulton Wiilsbøll    | 8      |         | 2:17.7 |
-| 32   | 42   | Troels Lund               | 5      |         | 2:17.8 |
-| 33   | 40   | Christen Larsen           | 3      |         | 2:18.1 |
-| 34   | 87   | Søren Harritslev Andersen | 9      |         | 2:20.9 |
-| 35   | 232  | Pernille Lindeberg        | 3      |         | 2:22.7 |
-| 36   | 752  | Thomas Sommer             | 7      |         | 2:23.4 |
-| 37   | 84   | Poul Mandrup Christensen  | 4      |         | 2:26.5 |
-| 38   | 30   | Brian Brogaard            | 3      |         | 2:28.3 |
-| 39   | 365  | Martin Sten Madsen        | 7      |         | 2:29.4 |
-| 40   | 2    | Rene Jørgensen            | 1      |         | 2:32.8 |
-| 41   | 14   | Poul-Erik Petersen        | 7      |         | 2:36.9 |
-| -    | 28   | Michael René Christensen  | 11     |         | DNS    |
-| -    | 888  | Jacob Emil Lassen         | 7      |         | DNS    |
+| Rank | No   | Driver: Name              | Class | Penalty | Time   |              |
+|------|------|---------------------------|-------|---------|--------|--------------|
+| 1    | 31   | Heino Mejer               | 6     |         | 1:54.9 |              |
+| 2    | 10   | Jakob Teil Hansen         | 6     |         | 1:56.3 |              |
+| 3    | 12   | Allan Bjerg Pedersen      | 6     |         | 2:03.9 |              |
+| 4    | 94   | Kim Møller-Andersen       | 6     |         | 2:04.9 |              |
+| 4    | 44   | Erling Hansen             | 6     |         | 2:04.9 |              |
+| 6    | 911  | Johnny Andersen           | 11    |         | 2:05.0 |              |
+| 7    | 45   | Søren Johan Tangaa        | 6     |         | 2:06.1 |              |
+| 8    | 35   | Martin Vestergaard        | 5     |         | 2:06.3 |              |
+| 9    | 11   | Jørgen Hummeluhr          | 10    |         | 2:07.0 |              |
+| 10   | 8    | Kurt Mejer                | 6     |         | 2:07.3 |              |
+| 11   | 230  | Erik Mortensen            | 11    |         | 2:09.3 |              |
+| 12   | 56   | Dennis Sørensen           | 9     |         | 2:09.5 |              |
+| 13   | 1    | Martin Christensen        | 6     |         | 2:10.3 |              |
+| 14   | 5    | Poul Pape Juel Jensen     | 5     |         | 2:10.4 |              |
+| 15   | 500  | Henrik Lykke              | 8     |         | 2:11.0 |              |
+| 16   | 27   | Rolf Schröder             | 11    |         | 2:11.2 |              |
+| 17   | 24   | Jan Hjersted              | 10    |         | 2:11.3 |              |
+| 18   | 9    | Erik Maagaard             | 6     |         | 2:11.4 |              |
+| 19   | 944  | Stiig Broby               | 10    |         | 2:11.9 |              |
+| 19   | 43   | Toni Hansen               | 5     |         | 2:11.9 |              |
+| 21   | 6    | Kenneth Jørgensen         | 5     |         | 2:12.1 |              |
+| 22   | 58   | Brian Rasmussen           | 9     |         | 2:12.2 |              |
+| 23   | 47   | Kim Larsen                | 10    |         | 2:13.5 |              |
+| 24   | 46   | Benny Rasmussen           | 6     |         | 2:14.4 |              |
+| 25   | 16   | Kim Windt Christensen     | 9     |         | 2:15.4 |              |
+| 25   | 15   | Christian Krogh Stender   | 8     |         | 2:15.4 |              |
+| 27   | 85   | Mark Skarsfeldt           | 8     |         | 2:15.6 |              |
+| 27   | 41   | Kim Kjærsgaard Frandsen   | 3     |         | 2:15.6 |              |
+| 29   | 571  | Jacob Fjord Nielsen       | 8     |         | 2:16.7 |              |
+| 30   | 173  | Michael Smed              | 5     |         | 2:17.5 |              |
+| 31   | 100  | Rikke Fulton Wiilsbøll    | 8     |         | 2:17.7 |              |
+| 32   | 42   | Troels Lund               | 5     |         | 2:17.8 |              |
+| 33   | 40   | Christen Larsen           | 3     |         | 2:18.1 |              |
+| 34   | 87   | Søren Harritslev Andersen | 9     |         | 2:20.9 |              |
+| 35   | 232  | Pernille Lindeberg        | 3     |         | 2:22.7 |              |
+| 36   | 752  | Thomas Sommer             | 7     |         | 2:23.4 |              |
+| 37   | 84   | Poul Mandrup Christensen  | 4     |         | 2:26.5 |              |
+| 38   | 30   | Brian Brogaard            | 3     |         | 2:28.3 |              |
+| 39   | 365  | Martin Sten Madsen        | 7     |         | 2:29.4 |              |
+| 40   | 2    | Rene Jørgensen            | 1     |         | 2:32.8 |              |
+| 41   | 14   | Poul-Erik Petersen        | 7     |         | 2:36.9 |              |
+| -    | 28   | Michael René Christensen  | 11    |         |        | DNS          |
+| -    | 888  | Jacob Emil Lassen         | 7     |         |        | DNS          |
 
 ## Final Results
 
