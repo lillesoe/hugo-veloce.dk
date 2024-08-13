@@ -1,6 +1,6 @@
 ---
 title: Munkebjerg Hill Climb
-date: '2023-06-17'
+date: '2023-08-13'
 tags: ['hill climb', 'munkebjerg', 'hms']
 draft: false
 toc: true
