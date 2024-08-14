@@ -318,4 +318,3 @@ Results from the Silkeborg Classic Sprint Saturday 2023-08-26 in the center of S
 | -    | 82  | Lars Engebjerg          |                            |                | Toyota Corolla            | 1985 | DNS      | DNS      | DNS      |         |          | DNS       |
 | -    | 100 | Rikke Fulton Wiilsbøll  |                            |                | Opel Kadett D             | 1983 | DNS      | DNS      | DNS      |         |          | DNS       |
 | -    | 127 | Zebastian Klint Pedersen |                           |                | Fiat 127                  | 1975 | DNS      | DNS      | DNS      |         |          | DNS       |
-
